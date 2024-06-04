@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Name an animal that can fly.",
+        "input": "",
+        "output": "Birds, bats, and insects are all animals that can fly."
+    },
+    {
+        "instruction": "Generate a list of five questions about a specific topic.",
+        "input": "Climate change.",
+        "output": "1. What is the cause of climate change? \n2. What are some of the consequences of climate change? \n3. How can we reduce the impact of climate change? \n4. What are the costs associated with responding to climate change? \n5. What are the economic benefits of taking action on climate change?"
+    },
+    {
+        "instruction": "Generate a list of 5 exercises to improve focus and concentration.",
+        "input": "",
+        "output": "1. Meditation: Meditation is a great way to hone in on your concentration skills. Taking the time to practice regularly can help you stay focused and improve your concentration.\n2. Brain Teasers: Doing brain teasers that require you to logically solve a problem can help to improve your problem-solving and analytical skills.\n3. Exercise: Regular exercise can help to improve your mental and physical fitness and in turn your ability to concentrate.\n4. Get Organized: Taking the time to organize your day-to-day activities and routines can help to reduce stress and help you stay focused on the task at hand.\n5. Take Breaks: Taking regular breaks throughout the day can help to clear your mind, reduce stress, and improve your concentration when you return to your tasks."
+    },
+    {
+        "instruction": "Provide a valid HTML element for a drop-down list.",
+        "input": "",
+        "output": "<select>\n  <option value=\"value1\">value1</option>\n  <option value=\"value2\">value2</option>\n  <option value=\"value3\">value3</option>\n</select>"
+    },
+    {
+        "instruction": "Generate a list of 5 activities to keep kids occupied",
+        "input": "",
+        "output": "1. Baking a cake or cookies\n2. Doing a scavenger hunt\n3. Drawing or painting\n4. Going for a picnic\n5. Playing board games."
+    },
+    {
+        "instruction": "Create a list of five activities for a beach holiday",
+        "input": "",
+        "output": "1. Going for a swim in the ocean.\n2. Collecting seashells.\n3. Going tide pooling.\n4. Building sandcastles.\n5. Relaxing on the beach with a good book."
+    },
+    {
+        "instruction": "Write ten questions on the topic of Internet security.",
+        "input": "",
+        "output": "1. What is the most important step in maintaining internet security? \n2. How can I protect my online login information? \n3. What safety measures are in place to protect my online banking accounts? \n4. How can I recognize a potentially malicious website link? \n5. How can I detect and remove malware? \n6. What are the best practices for password security? \n7. Should I use a virtual private network (VPN)? \n8. How can I protect my personal data and information on the web? \n9. What software programs should I use to protect my computer system? \n10. What should I do to protect myself from ransomware attacks?"
+    },
+    {
+        "instruction": "Generate a list with 5 things you can do in your social life.",
+        "input": "",
+        "output": "1. Go out to dinner or attend a party with friends \n2. Have a picnic or go camping with family \n3. Attend a live sports event \n4. Take a day trip to a nearby location \n5. Go shopping or to the movies with friends."
+    },
+    {
+        "instruction": "Name three emotions that are conveyed through facial expressions.",
+        "input": "",
+        "output": "Joy, anger, and surprise are three emotions that can be conveyed through facial expressions. Other emotions such as fear, sadness, disgust, and contempt may be expressed as well."
+    },
+    {
+        "instruction": "Create a list of five activities you would do to celebrate your birthday.",
+        "input": "",
+        "output": "1. Throw a themed birthday party. \n2. Invite a group of friends to a mocktail hour. \n3. Take a day trip with your closest friends. \n4. Spend the day at a spa and get a massage. \n5. Go for a picnic with your family."
+    },
+    {
+        "instruction": "Sing a children's song",
+        "input": "",
+        "output": "Twinkle, twinkle, little star, \nHow I wonder what you are. \nUp above the world so high, \nLike a diamond in the sky. \nTwinkle, twinkle, little star, \nHow I wonder what you are. \nWhen the blazing sun is gone, \nWhen he nothing shines upon, \nThen you show your little light, \nTwinkle, twinkle, all the night. \nTwinkle, twinkle, little star, \nHow I wonder what you are."
+    },
+    {
+        "instruction": "Generate 10 questions about nutrition.",
+        "input": "",
+        "output": "1. How much protein should be incorporated into a healthy diet? \n2. What are the benefits of incorporating vitamins and minerals into one\u2019s diet? \n3. Are there any dietary guidelines that should be followed? \n4. What types of food should be avoided in order to maintain a healthy weight?\n5. Are there any natural remedies that can improve the quality of one\u2019s diet? \n6. What are the benefits of eating organic food?\n7. What are some tips for avoiding processed foods? \n8. What types of food should be consumed regularly? \n9. Are there any foods that can help boost immunity? \n10. How much exercise is necessary to maintain a healthy lifestyle?"
+    },
+    {
+        "instruction": "Generate 3-5 questions to use in a survey related to the impacts of technology",
+        "input": "",
+        "output": "1. To what extent do you think technology has had a positive impact on your life? \n2. In what ways has technology had a negative effect on your life? \n3. How does technology affect your experience with nature? \n4. To what extent do you think technology has had a positive impact on the environment? \n5. How do you think technology can be used to promote sustainability?"
+    },
+    {
+        "instruction": "Create a list of 5 tasks a virtual assistant can help with",
+        "input": "",
+        "output": "1. Taking notes and creating To-do lists \n2. Setting and managing reminders \n3. Searching the web and collecting relevant data \n4. Scheduling and organizing events \n5. Sending and responding to emails"
+    },
+    {
+        "instruction": "Come up with a 5-step process for making a decision.",
+        "input": "",
+        "output": "1. Identify the decision to be made.\n2. Brainstorm options.\n3. Evaluate the options.\n4. Consider the potential risks and rewards.\n5. Make a decision and stick with it."
+    },
+    {
+        "instruction": "Generate a list of 8 social media platforms.",
+        "input": "",
+        "output": "1. Facebook\n2. Twitter\n3. Instagram\n4. Snapchat\n5. YouTube\n6. TikTok\n7. LinkedIn\n8. Pinterest"
+    },
+    {
+        "instruction": "Generate 5 questions about planet Earth.",
+        "input": "",
+        "output": "1. How old is the Earth? \n2. What is the circumference of the Earth? \n3. What is the composition of Earth's atmosphere? \n4. What is the average depth of the ocean? \n5. How many species of animals live on Earth?"
+    },
+    {
+        "instruction": "Select five healthy snack ideas.",
+        "input": "",
+        "output": "1. Whole grain toast with nut butter\n2. Hummus and vegetables\n3. Greek yogurt with fresh or frozen fruit\n4. Celery sticks with cottage cheese\n5. Hard-boiled egg and an apple"
+    },
+    {
+        "instruction": "Generate a list of 5 activities you could do with a group of kids on a summer day.",
+        "input": "",
+        "output": "1. Have a water balloon fight.\n2. Make ice cream sundaes outdoors.\n3. Have a scavenger hunt around the neighborhood.\n4. Paint rocks and hide them around the yard.\n5. Bake cookies and decorate them."
+    },
+    {
+        "instruction": "Generate a list of five stress-relieving activities",
+        "input": "",
+        "output": "Five stress-relieving activities include exercising, listening to music, keeping a journal, spending time with friends and family, and practicing relaxation techniques like yoga, deep breathing, and meditation."
+    },
+    {
+        "instruction": "Come up with a 3-step plan to organize a surprise birthday party.",
+        "input": "",
+        "output": "1. Choose a date, time and venue for the surprise birthday party. Make sure to select a place where the person of interest will feel comfortable, and the people that you invite can enjoy themselves. \n\n2. Send out invitations to your guests. Have them RSVP so you know how many people to plan for. \n\n3. Gather d\u00e9cor, food, and any entertainment you would like for the surprise party. Make sure to prepare some small party favors for your guests as well. Set everything up and plan exactly when to surprise the birthday person."
+    },
+    {
+        "instruction": "List 3 generic strategies firms can use to enter a new market",
+        "input": "",
+        "output": "1. Market penetration: Companies can enter new markets by using aggressive pricing strategies to capture market share.\n2. Geographic expansion: Companies can expand their presence to a new geographical area.\n3. Acquisition: Companies can acquire an existing business in a new market in order to gain access to its customers and distribution channels.\n4. Joint Venture: Companies can enter new markets by forming a joint venture with a local partner. \n5. Product Development: Companies can develop new products which are tailored to meet the needs of the local market. \n6. Distribution Channels: Companies can enter new markets by developing and optimizing distribution channels."
+    },
+    {
+        "instruction": "Pretend you are advising a friend who is going through a difficult situation. Create a positive message to give them.",
+        "input": "",
+        "output": "Remember that difficult times don't last forever. No matter what you're going through, it will pass and you will become stronger for it. Keep the faith and stay hopeful. You can make it through this!"
+    },
+    {
+        "instruction": "Suggest 3 ways a local business can leverage digital marketing to reach potential customers.",
+        "input": "",
+        "output": "1. Create a website and optimize it for local search engine results.\n2. Utilize social media platforms to increase brand awareness with targeted ads and organic content.\n3. Implement a content marketing strategy to build trust and establish expertise in the local area."
+    },
+    {
+        "instruction": "Identify three strategies to conserve energy.",
+        "input": "",
+        "output": "1. Reduce your thermostat setting. \n2. Air dry your clothes.\n3. Turn off lights and other electronics when not in use.\n4. Utilize natural lighting when possible. \n5. Unplug idle appliances.\n6. Use LED or compact fluorescent light bulbs.\n7. Insulate your home."
+    },
+    {
+        "instruction": "Find the shortest path from point A to point B using a GPS trajectory.",
+        "input": "Point A = (41.65407\u00b0 N, 91.53147\u00b0 W)\nPoint B = (41.65104\u00b0 N, 91.52863\u00b0 W)",
+        "output": "41.65407\u00b0N, 91.53147\u00b0W, 41.653475\u00b0N, 91.53124\u00b0W, 41.65219\u00b0N, 91.53063\u00b0W, 41.65104\u00b0N, 91.52863\u00b0W"
+    },
+    {
+        "instruction": "Suggest five activities to help promote self-care",
+        "input": "",
+        "output": "1. Get enough sleep.\n2. Exercise regularly.\n3. Eat healthy meals.\n4. Spend time with friends and family.\n5. Set aside time for yourself to do something you enjoy."
+    },
+    {
+        "instruction": "Design a 10-question survey related to online shopping",
+        "input": "",
+        "output": "1. How often do you shop online?\n2. What is the typical amount you spend on an online purchase?\n3. What type of items do you typically buy online?\n4. What payment method do you prefer when making an online purchase?\n5. How satisfied are you with the selection of products available online?\n6. How likely are you to recommend an online store to a friend?\n7. How satisfied are you with the user experience of online stores?\n8. Are there any features or changes you would like to see in online stores?\n9. Do you prefer physical stores or online stores?\n10. What is one thing you dislike the most about online shopping?"
+    },
+    {
+        "instruction": "Name an example of a non-living thing.",
+        "input": "",
+        "output": "Rock."
+    },
+    {
+        "instruction": "Come up with two open-ended questions related to the topic of climate change.",
+        "input": "",
+        "output": "1. How will climate change affect us in the future?\n2. What are some solutions that could help us reduce our carbon footprint?"
+    },
+    {
+        "instruction": "Make a list of 3 different ways to reduce carbon emissions.",
+        "input": "",
+        "output": "1. Energy conservation: use less energy whenever possible and switch to renewable energy sources.\n2. Transportation: Use more public transportation, carpool, and buy hybrid or electric vehicles.\n3. Reduce Waste: Reuse and recycle items, compost, and reduce consumption of resources."
+    },
+    {
+        "instruction": "Create five questions that could be used in a survey about social media usage.",
+        "input": "",
+        "output": "1. What social media platforms do you use?\n2. How long do you spend on social media per day? \n3. How do you feel about the amount of time you spend on social media? \n4. Do you ever take a break from social media?\n5. Do you feel like you're addicted to social media?"
+    },
+    {
+        "instruction": "Give a three-step process on how to make a smoothie.",
+        "input": "",
+        "output": "1. Gather the ingredients \u2013 choose fruits, vegetables, and other favorite smoothie items. \n2. Blend the ingredients \u2013 place ingredients into a blender and blend until smooth.\n3. Serve the smoothie \u2013 pour the smoothie into glasses and enjoy."
+    },
+    {
+        "instruction": "Name three computer programming languages.",
+        "input": "",
+        "output": "Java, Python, and JavaScript."
+    },
+    {
+        "instruction": "Create a list of 10 healthy brakfast meals",
+        "input": "",
+        "output": "1. Oven-baked eggs with asparagus and spinach.\n2. Avocado toast with freshly-sliced tomatoes.\n3. Greek yogurt with fresh fruit and a sprinkle of nuts.\n4. Smoothie made with yogurt, banana, and peanut butter.\n5. Quinoa porridge with almond milk and berries.\n6. Omelette with avocado, mushrooms, and bell peppers.\n7. Whole-wheat toast topped with ricotta cheese and honey.\n8. Chia seed pudding with banana, almond butter, and coconut flakes.\n9. Steel-cut oats with dried fruit and walnuts.\n10. Protein pancakes with almond butter and banana slices."
+    },
+    {
+        "instruction": "Suggest five ways of improving website loading time.",
+        "input": "",
+        "output": "1. Compress files using a Gzip compression utility.\n2. Minimize HTTP requests. \n3. Use a content delivery network (CDN).\n4. Reduce image size and resolution.\n5. Reduce and combine CSS and JavaScript files."
+    },
+    {
+        "instruction": "Convert 100 grams to pounds.",
+        "input": "",
+        "output": "100 grams is equal to 0.22046226218487757 pounds."
+    },
+    {
+        "instruction": "Create a list of 6 types of physical sports.",
+        "input": "",
+        "output": "1. Soccer\n2. Baseball\n3. Basketball\n4. Volleyball\n5. Swimming\n6. Tennis"
+    },
+    {
+        "instruction": "Name two types of musical genres.",
+        "input": "",
+        "output": "Rock and roll and jazz are two examples of musical genres."
+    },
+    {
+        "instruction": "Generate a workplace safety protocol",
+        "input": "",
+        "output": "1. Employees should always follow safety protocols and procedures.\n2. Employees should wear the appropriate safety gear at all times. \n3. Employees should be aware of potential safety hazards in the workplace.\n4. Employees should report any safety hazards to management immediately.\n5. Management should ensure proper maintenance of all safety equipment.\n6. Management should conduct regular safety inspections of the workplace.\n7. Management should offer regular safety training to employees.\n8. Management should review safety protocols with employees on a regular basis."
+    },
+    {
+        "instruction": "Describe the relationship between Alice and Bob.",
+        "input": "Alice and Bob are college students.",
+        "output": "Alice and Bob are college students who have been friends since they first met in their freshman year. They share the same majors, like to go out together, and support each other in academics and personal endeavors. They are usually seen having lunch together and helping each other with their assignments."
+    },
+    {
+        "instruction": "Suggest two appropriate actions to manage stress.",
+        "input": "",
+        "output": "1. Exercise regularly as it helps reduce stress and increase endorphins.\n2. Take breaks throughout the day to rest your mind and body.\n3. Make time for fun activities to give yourself a break from stress.\n4. Practice relaxation techniques such as deep breathing, yoga, and meditation.\n5. Connect and communicate with family and friends for support.\n6. Get plenty of sleep to help cope with stress.\n7. Eat a healthy balanced diet to fuel your body for handling stress."
+    },
+    {
+        "instruction": "Create a list of 10 fun activities for a family reunion.",
+        "input": "",
+        "output": "1. Play an outdoor game like hide and seek or tag. \n2. Have a potluck dinner and share family recipes. \n3. Have a talent show and encourage everyone to participate. \n4. Participate in a scavenger hunt. \n5. Take family photos or have a friendly photoshoot. \n6. Go on a hike or a nature walk. \n7. Have a movie night and watch old family movies. \n8. Participate in teambuilding activities like building a campfire and making S\u2019mores. \n9. Have a family dance-off. \n10. Create a family time capsule or memory book."
+    },
+    {
+        "instruction": "List five steps to writing a successful research paper.",
+        "input": "",
+        "output": "1) Select a topic and develop a research question; 2) Gather information and analyze data; 3) Select an argument and outline your paper; 4) Draft the paper and include citations; and 5) Edit and revise the paper."
+    },
+    {
+        "instruction": "Suggest some methods for data security",
+        "input": "",
+        "output": "1. Regularly backup data and store it securely.\n2. Limit access to data to authorized users.\n3. Implement strong authentication and access control measures.\n4. Use encryption for transmitting and storing data.\n5. Monitor data access activities.\n6. Regularly assess the system for security vulnerabilities.\n7. Update your security policies and software periodically.\n8. Train users on data security best practices.\n9. Use firewalls and anti-virus software.\n10. Dispose of sensitive data securely."
+    },
+    {
+        "instruction": "Create a list of five questions about the ocean",
+        "input": "",
+        "output": "1. How deep does the ocean get? \n2. What is the average temperature of the ocean? \n3. What is the largest ocean animal? \n4. What countries have the most coastline bordering the ocean? \n5. What percentage of the earth is covered by the ocean?"
+    },
+    {
+        "instruction": "Suggest a 5-step plan to develop a budget-friendly healthy meal.",
+        "input": "",
+        "output": "1. Make a list of budget-friendly groceries such as canned goods, frozen vegetables and fruit, beans, and eggs. \n2. Try to make a shopping list that relies heavily on plant-based options and look for recipes with the most variety in the ingredients.\n3. Calculate costs by adding up the price per serving for all of your groceries.\n4. Strategically plan meals by adding some of the same ingredients to multiple recipes to reduce the cost of the meal. \n5. Stick to the plan by preparing meals ahead of time and adding meat or fish sparingly to make the meals stretch."
+    },
+    {
+        "instruction": "Create a list of 5 tips for people who are looking to maintain a healthy lifestyle",
+        "input": "",
+        "output": "1. Exercise regularly.\n2. Eat lots of fruits and vegetables.\n3. Drink plenty of water.\n4. Get plenty of sleep.\n5. Reduce your stress levels."
+    },
+    {
+        "instruction": "Generate a list of 7 skills every leader needs to have.",
+        "input": "",
+        "output": "1. Communication Skills: Being able to communicate and explain one\u2019s vision, while connecting with the team, is an essential skill that all leaders need. \n2. Decision-Making Skills: Leaders are responsible for making important and sometimes difficult decisions, which is why they need to be able to weigh the risks, consider all angles, and think critically. \n3. Problem-Solving Skills: Leaders must be able to identify problems, come up with solutions, and delegates tasks to the right person.\n4. Emotional Intelligence: Leaders need to have an understanding of their own emotions and those of the people around them to make efficient decisions and manage conflicts.\n5. Self-Awareness: Good leaders need to understand their personal strengths, weaknesses, and areas of improvement in order to be effective. \n6. Motivational Skills: Leaders must have the ability to inspire, motivate, and mentor their team in order to reach their goals.\n7. Leadership by Example: Leaders need to set an example for their team by having a clear vision, staying true to their values, and leading with integrity."
+    },
+    {
+        "instruction": "Develop a plan to launch a successful business from scratch.",
+        "input": "",
+        "output": "1. Do your research and develop a detailed business plan.\n2. Obtain the necessary funding for your business.\n3. Establish a legal entity for your business, such as a LLC, Corporation, or Sole Proprietorship.\n4. Analyze your competition and create a unique selling point for your business.\n5. Set up an online presence, from creating a website to engaging in digital marketing.\n6. Develop and strengthen relationships with potential partners and associates.\n7. If necessary, find and hire staff with the right skills and qualifications.\n8. Track your success with regular performance reviews."
+    },
+    {
+        "instruction": "Identify five tips to improve computer security.",
+        "input": "",
+        "output": "1. Use strong passwords.\n2. Install and use security software.\n3. Backup important data and files.\n4. Keep software and operating system up to date.\n5. Disable autorun on devices."
+    },
+    {
+        "instruction": "Construct questions that you can ask an AI assistant about kitchen appliances.",
+        "input": "",
+        "output": "1. What types of kitchen appliances do you recommend?\n2. Can you help me select a kitchen appliance that meets my needs?\n3. What are some of the features of different kitchen appliances?\n4. Can you provide information about the cost of different kitchen appliances?\n5. What are some of the best brands for kitchen appliances?\n6. Are there any specials or discounts on kitchen appliances?\n7. How do I properly maintain and clean kitchen appliances?\n8. What are energy efficient kitchen appliances?\n9. Are there any safety concerns I should know about when using kitchen appliances?\n10. Do you have any tips to save money when buying kitchen appliances?"
+    },
+    {
+        "instruction": "Create a list of 5 questions to ask before investing in stocks.",
+        "input": "",
+        "output": "1. What is the potential risk associated with the investment? \n2. What is the expected return on investment?\n3. How much volatility should I expect with this investment?\n4. How liquid is this investment?\n5. Are there any tax implications associated with the investment?"
+    },
+    {
+        "instruction": "Create a list of five rules that should be followed when using social media.",
+        "input": "",
+        "output": "1. Respect other people's opinions and be kind in your posts.\n2. Do not post anything you would not want your parents to read.\n3. Double-check your sources before sharing information.\n4. Respect the privacy of others by not sharing confidential data.\n5. Exercise self-control when using social media by limiting your time and using it for productive purposes."
+    },
+    {
+        "instruction": "Identify 3 methods for reducing stress",
+        "input": "",
+        "output": "1. Exercise regularly to reduce stress hormones and release endorphins. \n2. Practice mindfulness and meditation to clear your mind and relax. \n3. Spend time with friends and family to alleviate loneliness and anxiety. \n4. Get enough quality sleep to restore your energy and alertness.\n5. Take up a hobby that you enjoy to create a constructive outlet. \n6. Eat nutritious meals to promote a healthy mind and body.\n7. Make time for yourself to think and reflect."
+    },
+    {
+        "instruction": "Generate a list of five meaningful interview questions",
+        "input": "",
+        "output": "1. What is one strength that you bring to this position?\n2. How do you think your skills and experiences can help you to succeed in this role? \n3. Describe a situation in which you had to work with a team to solve a problem.\n4. What is the most difficult situation you ever faced and how did you tackle it? \n5. What do you think will be the biggest challenge in this position?"
+    },
+    {
+        "instruction": "Provide 3 suggestions on how to make the following office more eco-friendly.",
+        "input": "A bistro-style cafe and office space with a modern aesthetic.",
+        "output": "1. Use energy efficient lighting such as LED lightbulbs.\n2. Use natural materials, such as bamboo or reclaimed wood, for furniture and decoration.\n3. Install motion and daylight sensors to reduce energy consumption."
+    },
+    {
+        "instruction": "Questions about a Job description",
+        "input": "A job description for a Software Engineer",
+        "output": "What responsibilities would the Software Engineer have? \nWhat qualifications and experience are required? \nWhat technologies should the Software Engineer be familiar with? \nWhat career path should the Software Engineer be expected to follow? \nIs there room for growth?"
+    },
+    {
+        "instruction": "How can you protect a computer from malware?",
+        "input": "",
+        "output": "1. Keep your computer and software updated with the latest security patches.\n2. Install an anti-malware program and make sure it is set to run daily scans. \n3. Don't open any suspicious emails or attachments from unknown senders.\n4. Avoid visiting suspicious websites and downloading any unknown software.\n5. Use secure passwords and change them periodically.\n6. Avoid connecting to public Wi-Fi networks."
+    },
+    {
+        "instruction": "Create a series of 3-5 budgeting tips.",
+        "input": "",
+        "output": "1. Create a budget that outlines all of your income and expenses.\n2. Set up automated payments to help you stay on track.\n3. Utilize apps and websites that provide budgeting and savings tips.\n4. Cut out any unnecessary fees or subscriptions.\n5. Avoid impulse purchases and save money for important future expenses."
+    },
+    {
+        "instruction": "In what way is artificial intelligence impacting our lives?",
+        "input": "",
+        "output": "Artificial Intelligence (AI) is transforming our lives in many ways. AI is used in a range of industries to automate operations and routine tasks, improve decision-making and support customer service. With AI, we can also explore and analyze large datasets to gain knowledge, predict outcomes and make decisions. AI is also being used to enhance the accuracy and productivity of healthcare, e-commerce and marketing. AI is also being used to improve access to information, and create virtual assistants, chatbots, and autonomous vehicles."
+    },
+    {
+        "instruction": "Create a list of 5 activities that people can do to stay healthy.",
+        "input": "",
+        "output": "1. Exercise regularly\n2. Get enough sleep\n3. Eat a balanced diet\n4. Stay hydrated\n5. Take breaks throughout the day"
+    },
+    {
+        "instruction": "Suggest some activities that can be done while social distancing.",
+        "input": "",
+        "output": "1. Streaming movies and shows 2. Video chatting with friends 3. Online classes and tutorials 4. Exploring virtual museums and tours 5. Reading books and magazines 6. Board and card games 7. Gardening 8. Going for walks and runs 9. Baking 10. At-home workout routines"
+    },
+    {
+        "instruction": "Make a list of five everyday items that can be used as lunch items",
+        "input": "",
+        "output": "Five everyday items you can use as lunch items are peanut butter and jelly sandwiches, hard-boiled eggs, bagels with cream cheese, string cheese, and hummus and veggies."
+    },
+    {
+        "instruction": "Identify five security measures that should be taken to protect online data.",
+        "input": "",
+        "output": "1. Use strong passwords\n2. Use two-factor authentication\n3. Monitor your accounts for suspicious activity\n4. Install reliable antivirus software\n5. Do not share sensitive information online"
+    },
+    {
+        "instruction": "Create a list of 10 items of essential things to pack for a camp",
+        "input": "",
+        "output": "1. Tent\n2. Sleeping bag\n3. Torch\n4. Camping stove\n5. Water bottles\n6. Sunscreen\n7. First aid kit\n8. Spare clothes\n9. Cooking utensils\n10. Portable charger"
+    },
+    {
+        "instruction": "Suggest four ways to improve customer satisfaction.",
+        "input": "",
+        "output": "1. Respond quickly to customer inquiries and feedback.\n2. Ensure that customer service is friendly and helpful.\n3. Listen to customer feedback and use it to improve products and services.\n4. Offer rewards and discounts for loyal customers."
+    },
+    {
+        "instruction": "How do you divide a time period of 1 hour into 10 parts?",
+        "input": "",
+        "output": "Each part of an 1 hour period would be 6 minutes long if it is divided into 10 parts. So, 1 hour can be divided into 10 parts of 6 minutes each."
+    },
+    {
+        "instruction": "Offer a 5 step plan for managing a crisis situation.",
+        "input": "",
+        "output": "1. Identify the crisis: Collect and analyze information to assess the scope and the severity of the crisis. \n2. Communicate the crisis: Openly communicate the facts to stakeholders, explain the plan of action, and provide regular updates. \n3. Develop a response plan: Identify and evaluate measures that can be taken as part of the plan of action. \n4. Implement the plan: Implement the response plan and ensure that any decisions taken are in line with the organizations\u2019 values. \n5. Monitor and evaluate: Monitor the situation to ensure that the response plan is effective and modify it if necessary."
+    },
+    {
+        "instruction": "Describe how to impress a customer.",
+        "input": "",
+        "output": "Listen to the customer carefully, acknowledge their needs and desires, make sure to follow up on commitments, and strive to exceed expectations."
+    },
+    {
+        "instruction": "Compile a list of five TED talks that explore interesting topics.",
+        "input": "",
+        "output": "1. \"The Danger of a Single Story\" by Chimamanda Ngozi Adichie. \n2. \"The Power of Vulnerability\" by Brene Brown. \n3. \"How Great Leaders Inspire Action\" by Simon Sinek. \n4. \"The Power of Introverts\" by Susan Cain. \n5. \"Your Body Language Shapes Who You Are\" by Amy Cuddy."
+    },
+    {
+        "instruction": "Make a list of physical activities for a 10-year-old to do.",
+        "input": "",
+        "output": "- Go for a bike ride\n- Set up an obstacle course in the backyard\n- Go swimming or take a lesson\n- Take a family hike\n- Play a game of catch\n- Plant a garden\n- Build and fly a kite\n- Build some outdoor crafts\n- Have a Nerf battle\n- Play board games or card games\n- Play hide and seek\n- Create an outdoor scavenger hunt\n- Run around the neighborhood"
+    },
+    {
+        "instruction": "Make a list of five questions to ask a hiring manager in an interview.",
+        "input": "",
+        "output": "1. What challenges will I face in this role? \n2. How would you describe the company culture? \n3. What opportunities are available for professional growth? \n4. What characteristics do you believe are important for success in this position? \n5. How will my performance be evaluated?"
+    },
+    {
+        "instruction": "Come up with some creative ways to recycle cardboard.",
+        "input": "",
+        "output": "1. Use cardboard as a fire starter when camping. \n2. Create storage boxes and shelves out of cardboard. \n3. Use cardboard to make decorative plant holders. \n4. Turn cardboard boxes into hand puppets or dolls. \n5. Use cardboard to make wall art or a photo frame. \n6. Use cardboard to make personalized coasters. \n7. Use cardboard to make a personalized birdhouse. \n8. Use cardboard to create gift boxes or gift bags. \n9. Use cardboard to make animal bedding or a pet house. \n10. Line the bottom of planters with cardboard to help with drainage and soil erosion."
+    },
+    {
+        "instruction": "Cite 3 steps to start a web hosting business.",
+        "input": "",
+        "output": "1. Choose a web hosting platform, such as cPanel, Plesk or DirectAdmin, that will serve as the foundation for your hosting services. \n2. Decide on the type of hosting services you will provide, such as shared hosting, VPS hosting, or dedicated servers.\n3. Research vendors and buy the necessary hardware, such as servers, disk arrays, and routers, to support your service offerings."
+    },
+    {
+        "instruction": "You need to suggest three ways to promote a small business.",
+        "input": "",
+        "output": "1. Create a website or blog to showcase your business.\n2. Take advantage of social media platforms to promote your business.\n3. Network with other businesses and create partnerships."
+    },
+    {
+        "instruction": "Create a list of five questions people should ask themselves to help set goals for the following year.",
+        "input": "",
+        "output": "1. What do I hope to achieve this year?\n2. What skills do I need to strengthen to reach my goals? \n3. Who are the people who can help me on my journey?\n4. How will I stay motivated and inspired every day?\n5. What resources do I need to help me succeed?"
+    },
+    {
+        "instruction": "Suggest four questions a company can use to assess an applicant's problem-solving ability.",
+        "input": "",
+        "output": "1. Can you tell me about a challenging situation you had to solve recently?\n2. How do you approach complex problems and come up with creative solutions?\n3. Describe a time when you had to navigate a difficult decision without feedback or guidance.\n4. What strategies have you implemented in the past to find innovative plans and solutions?"
+    },
+    {
+        "instruction": "Create a list of five key points to consider when buying a car.",
+        "input": "",
+        "output": "1. Budget: Set a budget for how much you are willing to spend on a car. \n2. Research: Research the different types and models of cars available.\n3. Test Drive: Test drive the car to get a feel of how it handles. \n4. Accessories: Determine what type of accessories you want on your car. \n5. Insurance: Make sure to get the proper insurance for the car."
+    },
+    {
+        "instruction": "Write a list of three animals that fly.",
+        "input": "",
+        "output": "Birds, bats, and insects such as dragonflies and butterflies."
+    },
+    {
+        "instruction": "Generate a list of five activities that people can do to help promote environmental conservation.",
+        "input": "",
+        "output": "1. Donate to environmental organizations.\n2. Participate in or start a local clean-up event.\n3. Make environmentally friendly purchases, like fuel efficient cars and reusable water bottles. \n4. Reduce waste by recycling, composting, and avoiding plastic.\n5. Educate others about the importance of protecting the environment."
+    },
+    {
+        "instruction": "Provide three strategies for reducing energy consumption.",
+        "input": "",
+        "output": "1. Switch to Energy-Efficient Appliances: Switching to energy-efficient appliances such as LED lights, washing machines, and heaters can reduce energy consumption significantly. \n\n2. Unplug Electronics When Not in Use: Many electronics, such as computers, can still use energy even when they are switched off. So unplugging them when they are not in use can help save energy. \n\n3. Utilize Natural Light: Taking advantage of natural light can reduce the need for artificial lighting, which can significantly reduce energy consumption."
+    },
+    {
+        "instruction": "Name a programming concept which helps in making the development process efficient.",
+        "input": "",
+        "output": "Object-oriented programming (OOP) is a programming paradigm which helps in making the development process more efficient. It allows for the creation of complex projects that are composed of modularized and reusable components. OOP is used for development of desktop, web, and mobile applications. OOP facilitates code organization and reduces the amount of code required to build complex systems."
+    },
+    {
+        "instruction": "Select three websites to research a topic.",
+        "input": "",
+        "output": "Wikipedia, BBC, and The New York Times are three good sources for researching any topic."
+    },
+    {
+        "instruction": "Provide at least five safety rules that cyclists should follow.",
+        "input": "",
+        "output": "1) Wear a helmet whenever you are riding your bike.\n2) Stay out of the flow of traffic and only ride on designated bike paths.\n3) Obey all traffic signs, signals, and laws.\n4) Stay visible to other vehicles by wearing bright and reflective clothing.\n5) Always inspect your bicycle before each ride to ensure it's in proper condition."
+    },
+    {
+        "instruction": "Create a todo list which you can use to organize daily tasks.",
+        "input": "",
+        "output": "1. Wake up and get dressed.\n2. Make breakfast.\n3. Do one pleasant task.\n4. Do one unpleasant task.\n5. Make lunch.\n6. Check emails.\n7. Do one creative task. \n8. Do one physical task.\n9. Make dinner.\n10. Revise the to do list for tomorrow."
+    },
+    {
+        "instruction": "Suggest a few ideas for a potential new mobile app.",
+        "input": "",
+        "output": "1. A language-learning app\n2. A mindfulness and meditation app\n3. A gardening assistance app\n4. An augmented reality app for exploring the night sky \n5. A video game for kids that teaches about the environment \n6. An app that helps people find like-minded individuals to connect with"
+    },
+    {
+        "instruction": "Suggest some tips for writing an essay.",
+        "input": "",
+        "output": "1. Brainstorm and come up with an interesting topic.  2. Research and gather evidence to support your ideas. 3. Carefully plan and organize your essay. 4. Keep a consistent flow of ideas throughout the essay. 5. Go through a few drafts so that you can improve your writing and structure. 6. Check for errors and make sure your essay is error-free. 7. Take the time to proofread your essay and make sure it's flawless."
+    },
+    {
+        "instruction": "Create a 5-step process to write a blog post.",
+        "input": "",
+        "output": "1. Identify your topic and audience.\n2. Research and organize your material.\n3. Write a draft of the post.\n4. Review and revise the post.\n5. Publish the post and promote it."
+    },
+    {
+        "instruction": "Provide five tips for effectively using tape measures",
+        "input": "",
+        "output": "1. Tighten the tape measure so that it stays in place when measuring.\n2. Make sure that the hook of the tape measure hits the starting point precisely.\n3. Allow for a bit of slack when measuring around curves or corners.\n4. Measure from a stable surface, such as a table or workbench.\n5. Mark the beginning and end of each measurement with a pen or marker."
+    },
+    {
+        "instruction": "Describe a method of converting solar energy into electricity",
+        "input": "",
+        "output": "A method of converting solar energy into electricity is called photovoltaics. This process involves using solar cells to convert the sun's energy into direct current electricity. Solar cells are typically made of layers of semi-conducting materials like silicone. When sunlight strikes the cells, electrons in the material are excited and result in the streaming of direct current electricity that can then be used for a variety of purposes."
+    },
+    {
+        "instruction": "Come up with five methods for reducing stress.",
+        "input": "",
+        "output": "1. Practice mindfulness and meditation: Taking some time each day to practice mindfulness and meditation can help reduce stress by calming the body and mind. \n2. Exercise regularly: Regular exercise can help reduce stress levels by releasing endorphins, which contribute to better overall mental health.\n3. Get enough sleep: Getting enough sleep is important for maintaining good mental health and combatting stress.\n4. Connect with others: Spending time with friends and family can help reduce stress and keep things in perspective.\n5. Take breaks: Taking some time off to do something that you enjoy can help break up the monotony of the day, relieve stress, and help recharge and refocus."
+    },
+    {
+        "instruction": "Create a list of five ways to save water around the house.",
+        "input": "",
+        "output": "Five ways to save water around the house are: \n1. Install aerators on your faucets to reduce water flow.\n2. Fix any plumbing leaks quickly. \n3. Replace your appliances with models that are water efficient.\n4. Choose native plants that need little or no additional water for landscaping.\n5. Utilize a rain barrel to capture rainwater and use it to water your garden."
+    },
+    {
+        "instruction": "Generate 10 different topics that could be used to start a conversation.",
+        "input": "",
+        "output": "1. Movies 2. Music 3. Video Games 4. Books 5. Politics 6. Sports 7. Technology 8. Nature 9. Food 10. Travel"
+    },
+    {
+        "instruction": "Suggest two ways to increase the reach of a blog.",
+        "input": "",
+        "output": "Share the blog posts on relevant social media platforms. Create ads on platforms such as Google Ads, Twitter, and Facebook in order to reach a wider audience."
+    },
+    {
+        "instruction": "Suggest a type of exercise that someone can practice indoors.",
+        "input": "",
+        "output": "You can practice indoor exercises such as yoga, strength training, aerobics, Pilates, and resistance exercises using elastic bands or weights."
+    },
+    {
+        "instruction": "Generate 10 new ideas to solve an existing problem.",
+        "input": "Climate change",
+        "output": "1. Invest in renewable energy sources such as wind and solar power. \n2. Plant trees to absorb carbon dioxide.\n3. Create more public transportation options to reduce the number of cars on the road. \n4. Reduce pesticide and fertilizer usage.\n5. Use more efficient agriculture techniques.\n6. Reduce carbon dioxide emissions via carbon taxes and other forms of taxation.\n7. Utilize carbon capture technology.\n8. Discourage overconsumption and waste of resources.\n9. Educate people to make more informed decisions.\n10. Develop machine learning algorithms to predict potential climate change effects."
+    },
+    {
+        "instruction": "Create a 5-item shopping list for a healthy breakfast.",
+        "input": "",
+        "output": "Shopping list for a healthy breakfast: \n1. Whole wheat bread\n2. Eggs\n3. Fruit of your choice\n4. Natural peanut butter\n5. Greek yogurt"
+    },
+    {
+        "instruction": "Generate a list of five activities to do during a one-day road trip.",
+        "input": "",
+        "output": "1. Go on a hike in the hills or woods nearby. \n2. Visit a nearby museum or historical site. \n3. Try a local restaurant for lunch. \n4. Take a scenic detour and enjoy the scenery along the way. \n5. Visit a local park or wildlife area for a leisurely stroll."
+    },
+    {
+        "instruction": "Compare between two given texts",
+        "input": "Text 1: The recent emergence of fine-tuning continuous prompts as a compact alternative to full model fine-tuning has sparked interest in this area.\nText 2: Recent research in continuous prompts for natural language tasks has shown great success in effectively fine-tuning models with fewer training examples.",
+        "output": "Text 1 and Text 2 both describe recent successes of continuous prompts for natural language tasks. In Text 1, this success is described in terms of fine-tuning as a compact alternative to full model fine-tuning, while Text 2 links the success to fewer training examples being needed. Both texts indicate that continuous prompts are highly effective at fine-tuning natural language models."
+    }
+]

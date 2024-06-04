@@ -1,0 +1,602 @@
+[
+    {
+        "instruction": "What is the name of the largest red-light district in Amsterdam?",
+        "context": "",
+        "response": "The largest red-light district in Amsterdam is De Wallen.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who proposed the Gini coefficient as a measure of inequality of income or wealth?",
+        "context": "In economics, the Gini coefficient, also known as the Gini index or Gini ratio, is a measure of statistical dispersion intended to represent the income inequality or the wealth inequality or the consumption inequality within a nation or a social group. It was developed by statistician and sociologist Corrado Gini.\nThe Gini coefficient measures the inequality among values of a frequency distribution, such as levels of income. A Gini coefficient of 0 reflects perfect equality, where all income or wealth values are the same, while a Gini coefficient of 1 (or 100%) reflects maximal inequality among values. For example, if everyone has the same income, the Gini coefficient will be 0. In contrast, a Gini coefficient of 1 indicates that within a group of people, a single individual has all the income or consumption, while all others have none.\nThe Gini coefficient was proposed by Corrado Gini as a measure of inequality of income or wealth.  For OECD countries, in the late 20th century, considering the effect of taxes and transfer payments, the income Gini coefficient ranged between 0.24 and 0.49, with Slovenia being the lowest and Mexico the highest. African countries had the highest pre-tax Gini coefficients in 2008\u20132009, with South Africa having the world's highest, estimated to be 0.63 to 0.7, although this figure drops to 0.52 after social assistance is taken into account, and drops again to 0.47 after taxation. The global income Gini coefficient in 2005 has been estimated to be between 0.61 and 0.68 by various sources.",
+        "response": "The Gini coefficient was proposed by Corrado Gini as a measure of inequality of income or wealth.",
+        "category": "summarization"
+    },
+    {
+        "instruction": "Classify each of the following as a weapon or a toy: gun, lego, knife, bomb, blocks, doll",
+        "context": "",
+        "response": "Gun: Weapon\nLego: Toy\nKnife: Weapon\nBomb: Weapon\nBlocks: Toy\nDoll: Toy",
+        "category": "classification"
+    },
+    {
+        "instruction": "Why boys are best over girls",
+        "context": "",
+        "response": "Brcause Boys always love to have peace so",
+        "category": "brainstorming"
+    },
+    {
+        "instruction": "What is a \"love hotel\"?",
+        "context": "A love hotel is a type of short-stay hotel found around the world operated primarily for the purpose of allowing guests privacy for sexual activities. The name originates from \"Hotel Love\" in Osaka, which was built in 1968 and had a rotating sign. Although love hotels exist all over the world, the term \"love hotel\" is often used to refer specifically to those located within Japan.",
+        "response": "A love hotel is a type of short-stay hotel found around the world operated primarily for the purpose of allowing guests privacy for sexual activities.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Why killing is sin?",
+        "context": "",
+        "response": "Killing is sin because you can not kill human being.,",
+        "category": "brainstorming"
+    },
+    {
+        "instruction": "Who wrote the Great Gatsby?",
+        "context": "",
+        "response": "The Great Gatsby was written by F. Scott Fitzgerald",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the average lifespan of a Golden Retriever?",
+        "context": "Golden Retrievers are a generally healthy breed; they have an average lifespan of 12 to 13 years. Irresponsible breeding to meet high demand has led to the prevalence of inherited health problems in some breed lines, including allergic skin conditions, eye problems and sometimes snappiness. These problems are rarely encountered in dogs bred from responsible breeders.",
+        "response": "The average lifespan of a Golden Retriever is 12 to 13 years.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Finish the sentence from the book 1984: Big ____ is watching you!",
+        "context": "",
+        "response": "The complete sentence is: Big Brother is watching you!",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Please fix the typos and grammar issues in the following text and reply with the updated text:\n\nI wuld love to go te cynema but I dont like the corrent movies.",
+        "context": "",
+        "response": "I would love to go to the cinema but I don't like the current movies.",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "Is Seattle a nice place to live?",
+        "context": "Seattle came in at No. 39 in the 2023 World's Best Cities Report, a comprehensive annual study by Resonance Consultancy. Seattle is a seaport city on the West Coast of the United States. The culture of Seattle is heavily defined by its significant musical history. Between 1918 and 1951, nearly 24 jazz nightclubs existed along Jackson Street, from the current Chinatown/International District to the Central District. The jazz scene nurtured the early careers of Ernestine Anderson, Ray Charles, Quincy Jones, and others. The city is also the origin of rock acts such as Foo Fighters, Heart, and Jimi Hendrix, as well as the grunge subgenre of rock and its pioneering bands Alice in Chains, Pearl Jam, Nirvana, and Soundgarden. The city itself is hilly, though not uniformly so. Like Rome, the city is said to lie on seven hills; the lists vary but typically include Capitol Hill, First Hill, West Seattle, Beacon Hill, Queen Anne, Magnolia, and the former Denny Hill. Due to its location in the Pacific Ring of Fire, Seattle is in a major earthquake zone. Temperature extremes are moderated by the adjacent Puget Sound, greater Pacific Ocean, and Lake Washington. Thus extreme heat waves are rare in the Seattle area, as are very cold temperatures (below about 15 \u00b0F (\u22129 \u00b0C)). The Seattle area is the cloudiest region of the United States, due in part to frequent storms and lows moving in from the adjacent Pacific Ocean. With many more \"rain days\" than other major American cities, Seattle has a well-earned reputation for frequent rain. Seattle's economy is driven by a mix of older industrial companies and \"new economy\" internet and technology companies, as well as service, design, and clean technology companies.",
+        "response": "Yes",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Which episode of \"The X-Files\" was broadcast in black-and-white?",
+        "context": "",
+        "response": "The Post-Modern Prometheus",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Given a reference text about the wraparound process, tell me what is included in a wraparound plan.",
+        "context": "The wraparound process is an intensive, individualized care management process for youths with serious or complex needs. Wraparound was initially developed in the 1980s as a means for maintaining youth with the most serious emotional and behavioral problems in their home and community. During the wraparound process, a team of individuals who are relevant to the well-being of the child or youth (e.g., family members, other natural supports, service providers, and agency representatives) collaboratively develop an individualized plan of care, implement this plan, and evaluate success over time. The wraparound plan typically includes formal services and interventions, together with community services and interpersonal support and assistance provided by friends, kin, and other people drawn from the family's social networks. The team convenes frequently to measure the plan's components against relevant indicators of success. Plan components and strategies are revised when outcomes are not being achieved.\n\nThe process of engaging the family, convening the team, developing the plan, implementing the plan, and transitioning the youth out of formal wraparound is typically facilitated by a trained care manager or \u201cwraparound facilitator,\u201d sometimes with the assistance of a family support worker. The wraparound process, and the plan itself, is designed to be culturally competent, strengths based, and organized around family members\u2019 own perceptions of needs, goals, and likelihood of success of specific strategies.",
+        "response": "A wraparound plan usually includes formal services and interventions along with community services and interpersonal support.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Given this reference text about Jimmy John's, where was the original Jimmy John's located?",
+        "context": "After Jimmy John Liautaud graduated second to last in his class at Elgin Academy in 1982, his father gave him a choice to either join the Army or start a business. Although his father wanted him to enlist, the younger Liautaud chose the latter, and his father agreed to loan him $25,000 in exchange for a 48% stake in the business. Initially Jimmy John wanted to open a hot dog stand, but after visiting numerous such stands throughout the summer of 1982, he realized the $25,000 would not be enough for such a venture. After a chance encounter at a sandwich shop, Jimmy John realized that he could open a sandwich shop within his available budget by purchasing premium meats at a neighborhood market and baking his own bread. With the help of his family as tasters, he decided to put four sandwiches on his original menu. Paying $200 a month in rent, Liautaud could only afford used equipment consisting of a refrigerator, a chest freezer, an oven, and a meat slicer.\n\nOn January 13, 1983, Jimmy John's Gourmet Sandwiches opened in Charleston, Illinois. Due to the poor location of his first store, Liautaud decided to include delivery of his sandwiches to boost sales. He began by bringing samples door-to-door to the dorms of nearby Eastern Illinois University, which he had attended for one semester.",
+        "response": "The original Jimmy John's was located in Charleston, Illinois.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What is the Maareech Advanced Torpedo Defence System (ATDS)?",
+        "context": "Maareech Advanced Torpedo Defence System (ATDS) is a torpedo detection and countermeasure system used by the Indian Navy. The system offers a complete solution to detect and locate an incoming torpedo and to apply countermeasures to protect naval platform against torpedo attack. It was developed as a joint project of the Naval Physical and Oceanographic Laboratory (NPOL), Kochi and the Naval Science and Technological Laboratory (NSTL), Visakhapatnam. Bharat Electronics is manufacturing it India.",
+        "response": "The Maareech Advanced Torpedo Defence System (ATDS is a torpedo detection and countermeasure system used by the Indian Navy.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "From the passage provided, extract the population of Andhra Pradesh",
+        "context": "Andhra Pradesh (English: /\u02cc\u0251\u02d0ndr\u0259 pr\u0259\u02c8d\u025b\u0283/, Telugu: [\u00e3\u02d0nd\u02b1r\u0250 pr\u0250de\u02d0\u0283] (listen) abbr. AP) is a state in the south-eastern coastal region of India. It is the seventh-largest state by area covering an area of 162,975 km2 (62,925 sq mi) and tenth-most-populous state, with 49,386,799 inhabitants. It is bordered by Telangana to the north-west, Chhattisgarh to the north, Odisha to the north-east, Tamil Nadu to the south, Karnataka to the west and the Bay of Bengal to the east. It has the second longest coastline in India after Gujarat, of about 974 km (605 mi). Andhra State was the first state to be formed on a linguistic basis in India on 1 October 1953. On 1 November 1956, Andhra State was merged with the Telugu-speaking areas (ten districts) of the Hyderabad State to form United Andhra Pradesh. In 2014, these merged areas of Hyderabad State were bifurcated from United Andhra Pradesh to form the new state Telangana. The present form of Andhra is similar to Andhra state, but some mandalas like Bhadrachalam are still included in Telangana. Amaravati serves as the capital of the state with the largest city being Visakhapatnam.\n\nAndhra Pradesh was once a major Buddhist pilgrimage site in the country and a Buddhist learning center which can be seen in many sites in the state in the form of monastery ruins, chaityas, and stupas. It is also known for being the land of Koh-i-Noor and other globally known diamonds from Kollur Mine. It is also a major producer of rice known as the \"Rice bowl of India\". Its official language is Telugu; one of the classical languages of India, the fourth most spoken language in India, and the 13th-most spoken language in the world. Andhra Pradesh's second official language is Urdu.",
+        "response": "The population of Andhra Pradesh is 49,386,799",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Change the following passage to past tense",
+        "context": "The episode focuses on two people: an elderly hospital doctor (Aleksander Bardini), who lives by himself in the ubiquitous Dekalog apartment block; and Dorota Geller (Krystyna Janda), a woman in her 30s who lives in the same building and is a violinist with the Philharmonic Orchestra.",
+        "response": "The episode focused on two people: an elderly hospital doctor (Aleksander Bardini), who lived by himself in the ubiquitous Dekalog apartment block; and Dorota Geller (Krystyna Janda), a woman in her 30s who lived in the same building and was a violinist with the Philharmonic Orchestra.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "How many continents are in the world?",
+        "context": "",
+        "response": "There are seven continents in the world",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Please extract the names of each of the Second City Theatre venues in which Chris Farley was a cast member, separated by commas.",
+        "context": "Christopher Crosby Farley was born on February 15, 1964, in Madison, Wisconsin, and grew up in Maple Bluff. His father, Thomas John Farley Sr. (1936\u201399), owned an oil company, and his mother, Mary Anne (n\u00e9e Crosby), was a homemaker. He had four siblings: Tom Jr., Kevin, John, and Barbara. His cousin, Jim, is chief executive officer at Ford Motor Company.\n\nThe Farleys are Irish Catholics. Chris attended parochial schools in Madison, including Edgewood High School of the Sacred Heart. According to Joel Murray, a fellow Second City cast member, Chris would \"always make it to Mass.\"\n\nMany of his summers were spent as a camper and counselor at Red Arrow Camp, near Minocqua, Wisconsin. He graduated from Marquette University in 1986, with a double major in communications and theater. At Marquette, he played rugby union and discovered a love of comedy.\n\nAfter college, he worked with his father at the Scotch Oil Company in Madison. He first learned the art of improvisational comedy at the Ark Improv Theatre in Madison.\n\nFarley made his way to Chicago, performing first at Improv Olympic. He then attended Chicago's Second City Theatre, starting the same day as Stephen Colbert, initially as part of Second City's touring group. He was eventually promoted to their main stage in 1989, and was a cast member of three revues, The Gods Must Be Lazy, It Was Thirty Years Ago Today, and Flag Smoking Permitted in Lobby Only or Censorama.",
+        "response": "The Gods Must Be Lazy, It Was Thirty Years Ago Today, Flag Smoking Permitted in Lobby Only or Censorama",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Which Dutch artist painted \u201cGirl with a Pearl Earring\u201d?",
+        "context": "",
+        "response": "Vermeer",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Haven't you always believed that Earth is flat?",
+        "context": "",
+        "response": "No, I never believed that Earth is flat. The Earth is an irregularly shaped Ellipsoid.",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "which are the youngest mountain ranges  in the world ?",
+        "context": "The Himalayan range is one of the youngest mountain ranges on the planet and consists mostly of uplifted sedimentary and metamorphic rock. According to the modern theory of plate tectonics, its formation is a result of a continental collision or orogeny along the convergent boundary (Main Himalayan Thrust) between the Indo-Australian Plate and the Eurasian Plate. The Arakan Yoma highlands in Myanmar and the Andaman and Nicobar Islands in the Bay of Bengal were also formed as a result of this collision.\nHimalayan ranges passes though countries like India, Nepal, Bhutan, Pakistan, and China.",
+        "response": "The youngest mountains are the Himalayan range passing though India, Nepal, Bhutan, Pakistan, and China",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What are the official forms of written Norwegian?",
+        "context": "As established by law and government policy, the two official forms of written Norwegian are Bokm\u00e5l (literally 'book tongue') and Nynorsk ('new Norwegian'). The official Norwegian Language Council (Spr\u00e5kr\u00e5det) is responsible for regulating the two forms, and recommends the terms Norwegian Bokm\u00e5l and Norwegian Nynorsk in English.[citation needed] Two other written forms without official status also exist. One, called Riksm\u00e5l ('national language'), is today to a large extent the same language as Bokm\u00e5l though somewhat closer to the Danish language. It is regulated by the unofficial Norwegian Academy, which translates the name as 'Standard Norwegian'. The other is H\u00f8gnorsk ('High Norwegian'), a more purist form of Nynorsk, which maintains the language in an original form as given by Ivar Aasen and rejects most of the reforms from the 20th century; this form has limited use.",
+        "response": "The two official forms of written Norwegian are Bokm\u00e5l and Nynorsk.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Which months of the year does the Northwest Pacific see tropical cyclones?",
+        "context": "Summer is traditionally associated with hot or warm weather. In Mediterranean climates, it is also associated with dry weather, while in other places (particularly in Eastern Asia because of the monsoon) it is associated with rainy weather. The wet season is the main period of vegetation growth within the savanna climate regime. Where the wet season is associated with a seasonal shift in the prevailing winds, it is known as a monsoon.\nIn the northern Atlantic Ocean, a distinct tropical cyclone season occurs from 1 June to 30 November. The statistical peak of the Atlantic hurricane season is 10 September. The Northeast Pacific Ocean has a broader period of activity, but in a similar timeframe to the Atlantic. The Northwest Pacific sees tropical cyclones year-round, with a minimum in February and March and a peak in early September. In the North Indian basin, storms are most common from April to December, with peaks in May and November. In the Southern Hemisphere, the tropical cyclone season runs from the start of November until the end of April with peaks in mid-February to early March.\nThunderstorm season in the United States and Canada runs in the spring through summer but sometimes can run as late as October or even November in the fall. These storms can produce hail, strong winds and tornadoes, usually during the afternoon and evening.",
+        "response": "The Northwest Pacific sees tropical cyclones year-round, with a minimum in February and March and a peak in early September.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Which is the most popular sport in India?",
+        "context": "",
+        "response": "The most popular sport in India is Cricket",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "When was the first Academy Awards?",
+        "context": "",
+        "response": "The first Academy Awards was Thursday, May 16, 1929",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the half-life of Iodine-125?",
+        "context": "Iodine-125 (125I) is a radioisotope of iodine which has uses in biological assays, nuclear medicine imaging and in radiation therapy as brachytherapy to treat a number of conditions, including prostate cancer, uveal melanomas, and brain tumors. It is the second longest-lived radioisotope of iodine, after iodine-129.\nIts half-life is 59.49 days and it decays by electron capture to an excited state of tellurium-125. This state is not the metastable 125mTe, but rather a lower energy state that decays immediately by gamma decay with a maximum energy of 35 keV. Some of the excess energy of the excited 125Te may be internally converted ejected electrons (also at 35 keV), or to x-rays (from electron bremsstrahlung), and also a total of 21 Auger electrons, which are produced at the low energies of 50 to 500 electron volts. Eventually, stable ground state 125Te is produced as the final decay product.\nIn medical applications, the internal conversion and Auger electrons cause little damage outside the cell which contains the isotope atom. The X-rays and gamma rays are of low enough energy to deliver a higher radiation dose selectively to nearby tissues, in \"permanent\" brachytherapy where the isotope capsules are left in place (125I competes with palladium-103 in such uses)\nBecause of its relatively long half-life and emission of low-energy photons which can be detected by gamma-counter crystal detectors, 125I is a preferred isotope for tagging antibodies in radioimmunoassay and other gamma-counting procedures involving proteins outside the body. The same properties of the isotope make it useful for brachytherapy, and for certain nuclear medicine scanning procedures, in which it is attached to proteins (albumin or fibrinogen), and where a half-life longer than that provided by 123I is required for diagnostic or lab tests lasting several days.\nIodine-125 can be used in scanning/imaging the thyroid, but iodine-123 is preferred for this purpose, due to better radiation penetration and shorter half-life (13 hours). 125I is useful for glomerular filtration rate (GFR) testing in the diagnosis or monitoring of patients with kidney disease. Iodine-125 is used therapeutically in brachytherapy treatments of tumors. For radiotherapy ablation of tissues that absorb iodine (such as the thyroid), or that absorb an iodine-containing radiopharmaceutical, the beta-emitter iodine-131 is the preferred isotope.",
+        "response": "The half-life of Iodine-125 is 59.49 days.",
+        "category": "summarization"
+    },
+    {
+        "instruction": "Given this article, what is the largest size for a dead man zone?",
+        "context": "The dead man zone is the area directly around a bushfire that is likely to burn within five minutes given the current wind conditions or an anticipated change in wind direction. The distance this zone extends from the firefront is highly dependent on terrain, windspeed, fuel type and composition, relative humidity and ambient temperature, and can range from under 100 metres (330 ft) to well over 1 kilometre (3,300 ft).",
+        "response": "The largest size for a dead man zone is 1 kilometre",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What are the three commonly accepted periods of human pre-history?",
+        "context": "",
+        "response": "The Stone Age, the Bronze Age, and the Iron Age",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who are the greatest hockey players of all time?",
+        "context": "",
+        "response": "The greatest hockey players of all time include Wayne Gretzky, Mario Lemieux, Bobby Orr, and Gordie Howe.",
+        "category": "brainstorming"
+    },
+    {
+        "instruction": "What is Sunset?",
+        "context": "Sunset, also known as sundown, is the daily disappearance of the Sun below the horizon due to Earth's rotation. As viewed from everywhere on Earth (except the North and South poles), the equinox Sun sets due west at the moment of both the spring and autumn equinoxes. As viewed from the Northern Hemisphere, the Sun sets to the northwest (or not at all) in the spring and summer, and to the southwest in the autumn and winter; these seasons are reversed for the Southern Hemisphere.\nThe time of sunset is defined in astronomy as the moment when the upper limb of the Sun disappears below the horizon. Near the horizon, atmospheric refraction causes sunlight rays to be distorted to such an extent that geometrically the solar disk is already about one diameter below the horizon when a sunset is observed.\nSunset is distinct from twilight, which is divided into three stages. The first one is civil twilight, which begins once the Sun has disappeared below the horizon, and continues until it descends to 6 degrees below the horizon. The second phase is nautical twilight, between 6 and 12 degrees below the horizon. The third phase is astronomical twilight, which is the period when the Sun is between 12 and 18 degrees below the horizon. Dusk is at the very end of astronomical twilight, and is the darkest moment of twilight just before night. Finally, night occurs when the Sun reaches 18 degrees below the horizon and no longer illuminates the sky.\nLocations further north than the Arctic Circle and further south than the Antarctic Circle experience no full sunset or sunrise on at least one day of the year, when the polar day or the polar night persists continuously for 24 hours.",
+        "response": "Sunset is the daily disappearance of the Sun below the horizon due to Earth's rotation.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Which is the most popular Italian Song Festival",
+        "context": "The Sanremo Music Festival (Italian: Festival di Sanremo [\u02c8f\u025bstival di san\u02c8r\u025b\u02d0mo, festi\u02c8val -]), officially the Italian Song Festival (Italian: Festival della canzone italiana), is the most popular Italian song contest and awards ceremony, held annually in the city of Sanremo, Liguria",
+        "response": "The Sanremo Music Festival",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "what is the Algeria independence date",
+        "context": "",
+        "response": "The Algeria independence date is July 5, 1962.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What are the four major tournaments in professional golf?",
+        "context": "",
+        "response": "The four major tournaments in professional golf are the Masters, PGA Championship, Open Championship, and U.S. Open.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Manchester of South India ?",
+        "context": "Coimbatore, also spelt as Koyamputhur[note 1] (Tamil pronunciation: [ko\u02d0jamb\u028at\u032a\u02d0u\u02d0\u027e]), sometimes shortened as Kovai (IPA: [ko\u02d0\u028baj]), is one of the major metropolitan cities in the Indian state of Tamil Nadu. It is located on the banks of the Noyyal River and surrounded by the Western Ghats. Coimbatore is the second largest city in Tamil Nadu after Chennai in terms of population and the 16th largest urban agglomeration in India as per the census 2011. It is administered by the Coimbatore Municipal Corporation and is the administrative capital of Coimbatore District. In 1981, Coimbatore formed as the third municipal corporation in Tamil Nadu after Chennai and Madurai. Podanur Junction is the oldest railway station in Coimbatore City. The city is one of the largest exporters of jewellery, wet grinders, poultry and auto components; the \"Coimbatore Wet Grinder\" and the \"Kovai Cora Cotton\" are recognised as Geographical Indications by the Government of India. Being a hub of textile industry in South India, the city is sometimes referred to as the \"Manchester of South India\". It was ranked the 7th best city in India in the Ease of Living index 2020.",
+        "response": "Coimbatore",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What are the five smallest countries in Europe?",
+        "context": "",
+        "response": "The five smallest countries in Europe are Andorra, Monaco, San Marino, Vatican City, and Liechtenstein.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Swordtail or Excalibur",
+        "context": "",
+        "response": "Swordtail",
+        "category": "classification"
+    },
+    {
+        "instruction": "What is the legal drinking age in the USA?",
+        "context": "",
+        "response": "The legal drinking age in the USA is 21.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How is an electric field produced?",
+        "context": "Electricity is the set of physical phenomena associated with the presence and motion of matter that has a property of electric charge. Electricity is related to magnetism, both being part of the phenomenon of electromagnetism, as described by Maxwell's equations. Various common phenomena are related to electricity, including lightning, static electricity, electric heating, electric discharges and many others.\nThe presence of either a positive or negative electric charge produces an electric field. The movement of electric charges is an electric current and produces a magnetic field. In most applications, a force acts on a charge with a magnitude given by Coulomb's law. Electric potential is typically measured in volts.\nElectricity is at the heart of many modern technologies, being used for:\nElectric power where electric current is used to energise equipment;\nElectronics which deals with electrical circuits that involve active electrical components such as vacuum tubes, transistors, diodes and integrated circuits, and associated passive interconnection technologies.\nElectrical phenomena have been studied since antiquity, though progress in theoretical understanding remained slow until the 17th and 18th centuries. The theory of electromagnetism was developed in the 19th century, and by the end of that century electricity was being put to industrial and residential use by electrical engineers. The rapid expansion in electrical technology at this time transformed industry and society, becoming a driving force for the Second Industrial Revolution. Electricity's extraordinary versatility means it can be put to an almost limitless set of applications which include transport, heating, lighting, communications, and computation. Electrical power is now the backbone of modern industrial society.",
+        "response": "The presence of either a positive or negative electric charge produces an electric field.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What nationality and percentage were forced into internment camps?",
+        "context": "",
+        "response": "Japanese Americans ethnic group were forced into internment camps. Around 70% of Japanese Americans were impacted by this.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Tonguefish or Tongue",
+        "context": "",
+        "response": "Tonguefish",
+        "category": "classification"
+    },
+    {
+        "instruction": "What is the largest state by land size in the United States of America?",
+        "context": "",
+        "response": "The largest state by land size in the United States of America is Alaska.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Tell me whether these are rivers or oceans: Nile, Amazon, Ganges, Hudson, Rhine",
+        "context": "",
+        "response": "These are rivers.",
+        "category": "classification"
+    },
+    {
+        "instruction": "What is the population in Suwon?",
+        "context": "Suwon (Korean: \uc218\uc6d0; Hanja: \u6c34\u539f; lit. Waterfield, Korean pronunciation: [s\u02b0u.w\u028cn]) is the capital and largest city of Gyeonggi-do, South Korea's most populous province which surrounds Seoul, the national capital. Suwon lies about 30 km (19 mi) south of Seoul. It is traditionally known as \"The City of Filial Piety\". With a population close to 1.3 million, it is larger than Ulsan, although it is not governed as a metropolitan city.",
+        "response": "The population in Suwon is close to 1.3 million.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What does the Gini coefficient measure?",
+        "context": "In economics, the Gini coefficient, also known as the Gini index or Gini ratio, is a measure of statistical dispersion intended to represent the income inequality or the wealth inequality or the consumption inequality within a nation or a social group. It was developed by statistician and sociologist Corrado Gini.\nThe Gini coefficient measures the inequality among values of a frequency distribution, such as levels of income. A Gini coefficient of 0 reflects perfect equality, where all income or wealth values are the same, while a Gini coefficient of 1 (or 100%) reflects maximal inequality among values. For example, if everyone has the same income, the Gini coefficient will be 0. In contrast, a Gini coefficient of 1 indicates that within a group of people, a single individual has all the income or consumption, while all others have none.\nThe Gini coefficient was proposed by Corrado Gini as a measure of inequality of income or wealth.  For OECD countries, in the late 20th century, considering the effect of taxes and transfer payments, the income Gini coefficient ranged between 0.24 and 0.49, with Slovenia being the lowest and Mexico the highest. African countries had the highest pre-tax Gini coefficients in 2008\u20132009, with South Africa having the world's highest, estimated to be 0.63 to 0.7, although this figure drops to 0.52 after social assistance is taken into account, and drops again to 0.47 after taxation. The global income Gini coefficient in 2005 has been estimated to be between 0.61 and 0.68 by various sources.",
+        "response": "The Gini coefficient measures the inequality among values of a frequency distribution, such as levels of income.",
+        "category": "summarization"
+    },
+    {
+        "instruction": "According to this paragraph, when was the university of virginia founded?",
+        "context": "The University of Virginia (UVA) is a public research university in Charlottesville, Virginia. It was founded in 1819 by Thomas Jefferson. Set within the Academical Village, a UNESCO World Heritage Site, the university is referred to as a \"Public Ivy\" for offering an academic experience similar to that of an Ivy League university. It is known in part for certain rare characteristics among public universities such as its historic foundations, student-run honor code, and secret societies.",
+        "response": "The University of Virginia was founded in 1819.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Given the reference text about The Masters, where is the tournament played and what is the name of the golf course?",
+        "context": "The Masters Tournament (usually referred to as simply The Masters, or the U.S. Masters outside North America) is one of the four major championships in professional golf. Scheduled for the first full week of April, the Masters is the first major of the year, and unlike the others, it is always held at the same location, Augusta National Golf Club, a private course in the city of Augusta, Georgia, in the southeastern United States.\n\nThe Masters was started by amateur champion Bobby Jones and investment banker Clifford Roberts. After his grand slam in 1930, Jones acquired the former plant nursery and co-designed Augusta National with course architect Alister MacKenzie. First played 89 years ago in 1934, the tournament is an official money event on the PGA Tour, the European Tour, and the Japan Golf Tour. The field of players is smaller than those of the other major championships because it is an invitational event, held by the Augusta National Golf Club.",
+        "response": "The Masters is played at Augusta National Golf Club in Augusta, Georgia.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Where was his Catholic school?",
+        "context": "Waring was born John Roderick Rodriguez in Lewisham, London, into a respectable family of Portuguese ancestry, and attended a Catholic school in Southwark.",
+        "response": "Southwark",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What are the seven main islands of Canary Island as per the passage? Display the results in a comma separated format.",
+        "context": "The Canary Islands (/k\u0259\u02c8n\u025b\u0259ri/; Spanish: Canarias, pronounced [ka\u02c8na\u027ejas]), also known informally as the Canaries, are a Spanish autonomous community and archipelago in Macaronesia in the Atlantic Ocean. At their closest point to the African mainland, they are 100 kilometres (62 miles) west of Morocco. They are the southernmost of the autonomous communities of Spain. The islands have a population of 2.2 million people and are the most populous special territory of the European Union.\n\nThe seven main islands are (from largest to smallest in area) Tenerife, Fuerteventura, Gran Canaria, Lanzarote, La Palma, La Gomera, and El Hierro. The archipelago includes many smaller islands and islets, including La Graciosa, Alegranza, Isla de Lobos, Monta\u00f1a Clara, Roque del Oeste, and Roque del Este. It also includes a number of rocks, including Garachico and Anaga. In ancient times, the island chain was often referred to as \"the Fortunate Isles\". The Canary Islands are the southernmost region of Spain, and the largest and most populous archipelago of Macaronesia. Because of their location, the Canary Islands have historically been considered a link between the four continents of Africa, North America, South America, and Europe.\n\nIn 2019, the Canary Islands had a population of 2,153,389, with a density of 287.39 inhabitants per km2, making it the eighth most populous autonomous community of Spain. The population is mostly concentrated in the two capital islands: around 43% on the island of Tenerife and 40% on the island of Gran Canaria.\n\nThe Canary Islands, especially Tenerife, Gran Canaria, Fuerteventura, and Lanzarote, are a major tourist destination, with over 12 million visitors per year. This is due to their beaches, subtropical climate, and important natural attractions, especially Maspalomas in Gran Canaria and Mount Teide (a World Heritage Site) in Tenerife. Mount Teide is the highest peak in Spain and the third tallest volcano in the world, measured from its base on the ocean floor. The islands have warm summers and winters warm enough for the climate to be technically tropical at sea level. The amount of precipitation and the level of maritime moderation vary depending on location and elevation. The archipelago includes green areas as well as desert. The islands' high mountains are ideal for astronomical observation, because they lie above the temperature inversion layer. As a result, the archipelago boasts two professional observatories: the Teide Observatory on Tenerife, and Roque de los Muchachos Observatory on La Palma.",
+        "response": "Tenerife, Fuerteventura, Gran Canaria, Lanzarote, La Palma, La Gomera, El Hierro",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Which is the last dynasty in China?",
+        "context": "",
+        "response": "The Qing Dynasty",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What are the three biggest cities by population in Spain?",
+        "context": "",
+        "response": "The three biggest cities by population in Spain are Madrid, Barcelona, and Valencia.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Given a refrence text about The Bobcaygeon Independent, tell me when it was established and when it ceased publication.",
+        "context": "The Bobcaygeon Independent was the weekly community newspaper in Bobcaygeon, Ontario, Canada. It was established in 1869. Ownership changed hands many times over the years, until it was purchased along with then owner, Citizens Communication Group, in 2000 by Metroland Publishing.\n\nThe Independent covered everything from community events, school issues & family milestones to local crimes and tragedies. During ownership by the Citizens Communication Group, the Bobcaygeon and Fenelon news teams worked closely together, and from time to time, some stories of general interest would run simultaneously in the Independent and its sister paper the Fenelon Falls Gazette. During ownership by Metroland Publishing, a similar news style was used with common pages in both Bobcaygeon and Fenelon papers, and in the Lindsay This Week newspaper.\n\nThe paper was officially incorporated into Kawartha Lakes This Week in late 2004 in keeping with the amalgamation of Lindsay, Bobcaygeon and Fenelon Falls into the City of Kawartha Lakes.\n\nToday, back issues are available at the Bobcaygeon Public Library for viewing on Microfiche, as far back as the first issue in 1869.\n\nAlthough the paper had ceased publication in 2004, the website Amazon.com still offers subscriptions.",
+        "response": "The Bobcaygeon Independent was established in 1869 and ceased publication in 2004.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What team has won the most Stanley Cups?",
+        "context": "",
+        "response": "The Montreal Canadiens have won the most Stanley Cups with 24.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the official name of Singapore?",
+        "context": "Singapore (/\u02c8s\u026a\u014b(\u0261)\u0259p\u0254\u02d0r/ (listen)), officially the Republic of Singapore, is an island country and city-state in maritime Southeast Asia. It lies about one degree of latitude (137 kilometres or 85 miles) north of the equator, off the southern tip of the Malay Peninsula, bordering the Strait of Malacca to the west, the Singapore Strait to the south, the South China Sea to the east, and the Straits of Johor to the north. The country's territory is composed of one main island, 63 satellite islands and islets, and one outlying islet; the combined area of these has increased by 25% since the country's independence as a result of extensive land reclamation projects. It has the third highest population density in the world. With a multicultural population and recognising the need to respect cultural identities of the major ethnic groups within the nation, Singapore has four official languages: English, Malay, Mandarin, and Tamil. English is the lingua franca and numerous public services are available only in English. Multi-racialism is enshrined in the constitution and continues to shape national policies in education, housing, and politics.",
+        "response": "The official name of Singapore is The Republic of Singapore",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Who is the protagonist in Italo Calvino's Invisible Cities?",
+        "context": "\"The book explores imagination and the imaginable through the descriptions of cities by an explorer, Marco Polo. The book is framed as a conversation between the elderly and busy emperor Kublai Khan, who constantly has merchants coming to describe the state of his expanding and vast empire, and Polo. The majority of the book consists of brief prose poems describing 55 fictitious cities that are narrated by Polo, many of which can be read as parables or meditations on culture, language, time, memory, death, or the general nature of human experience.\n\nShort dialogues between Kublai and Polo are interspersed every five to ten cities discussing these topics. These interludes between the two characters are no less poetically constructed than the cities, and form a framing device that plays with the natural complexity of language and stories. In one key exchange in the middle of the book, Kublai prods Polo to tell him of the one city he has never mentioned directly\u2014h\"",
+        "response": "The book explores imagination and the imaginable through the descriptions of cities by an explorer, Marco Polo.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What is the best data warehouse",
+        "context": "",
+        "response": "The lakehouse",
+        "category": "general_qa"
+    },
+    {
+        "instruction": "The Coquerel's coua species was named after who?",
+        "context": "Coquerel's coua (Coua coquereli) is a species of cuckoo in the family Cuculidae. It is endemic to Madagascar. Its habitat is subtropical or tropical dry forests. It was named in 1867 by the French naturalist Alfred Grandidier in honor of the French navy surgeon and naturalist Charles Coquerel. Coquerel's coua is approximately 40 cm (16 in) in length and has a large blue patch of bare skin around the eye, a characteristic of the Coua genus that is similar to African turacos. The plumage is silky, the crown is black, the upper parts and tail are light brown or greyish-brown, and the lower breast and belly is suffused with red. The iris is red and the beak and legs are slaty grey. As a member of the cuckoo family, it has a reversible third toe and resembles the coucal in its method of scrambling through tangled bushes and lianas while searching for food. Observations indicate that it can climb about 10 m (30 ft) above the ground.",
+        "response": "The Coquerel's coua species was named after the French navy surgeon and naturalist Charles Coquerel.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What was the main treaty that marked the end of World War I?",
+        "context": "",
+        "response": "The main treaty that marked the end of World War I was the Treaty of Versailles.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How many continents are there on Earth?",
+        "context": "",
+        "response": "There are 7 continents - Africa, Antarctica, Asia, Australia, Europe, North America, and South America.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is the largest estuary in the United States?",
+        "context": "The Chesapeake Bay (/\u02c8t\u0283\u025bs\u0259pi\u02d0k/ CHESS-\u0259-peek) is the largest estuary in the United States. The Bay is located in the Mid-Atlantic region and is primarily separated from the Atlantic Ocean by the Delmarva Peninsula, including parts of the Eastern Shore of Maryland, the Eastern Shore of Virginia, and the state of Delaware. The mouth of the Bay at its southern point is located between Cape Henry and Cape Charles. With its northern portion in Maryland and the southern part in Virginia, the Chesapeake Bay is a very important feature for the ecology and economy of those two states, as well as others surrounding within its watershed. More than 150 major rivers and streams flow into the Bay's 64,299-square-mile (166,534 km2) drainage basin, which covers parts of six states, New York, Pennsylvania, Delaware, Maryland, Virginia, and West Virginia, and all of Washington, D.C.",
+        "response": "The Chesapeake Bay is the largest estuary in the United States.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What is the dominant character encoding for the World Wide Web?",
+        "context": "UTF-8 is the dominant encoding for the World Wide Web (and internet technologies), accounting for 97.9% of all web pages, over 99.0% of the top 10,000 pages, and up to 100.0% for many languages, as of 2023. Virtually all countries and languages have 95.0% or more use of UTF-8 encodings on the web.",
+        "response": "The dominant character encoding for the World Wide Web is UTF-8. It is used by 97.9% of all web pages.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Who owns the canoe named The Island Bird?",
+        "context": "The Island Bird is a Chesapeake Bay log canoe, built in 1882, by William Sidney Covington in Tilghman, Maryland. She is a 27 ft 4 in (8.33 m) sailing log canoe with a racing rig, a sharp stem with a longhead bow, and a sharp, raking stern. She is one of the smallest boats in the active racing fleet, with a beam of only 5 ft 6.5 in (1.689 m). The boat is privately owned by the descendants of Mr. Covington and has been racing every season since 1949. She one of the last 22 surviving traditional Chesapeake Bay racing log canoes that carry on a tradition of racing on the Eastern Shore of Maryland that has existed since the 1840s. She is located at St. Michaels, Talbot County, Maryland.",
+        "response": "The descendants of William Sidney Covington",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "What are Singapore's official languages?",
+        "context": "Singapore (/\u02c8s\u026a\u014b(\u0261)\u0259p\u0254\u02d0r/ (listen)), officially the Republic of Singapore, is an island country and city-state in maritime Southeast Asia. It lies about one degree of latitude (137 kilometres or 85 miles) north of the equator, off the southern tip of the Malay Peninsula, bordering the Strait of Malacca to the west, the Singapore Strait to the south, the South China Sea to the east, and the Straits of Johor to the north. The country's territory is composed of one main island, 63 satellite islands and islets, and one outlying islet; the combined area of these has increased by 25% since the country's independence as a result of extensive land reclamation projects. It has the third highest population density in the world. With a multicultural population and recognising the need to respect cultural identities of the major ethnic groups within the nation, Singapore has four official languages: English, Malay, Mandarin, and Tamil. English is the lingua franca and numerous public services are available only in English. Multi-racialism is enshrined in the constitution and continues to shape national policies in education, housing, and politics.",
+        "response": "The four official languages of Singapore are English, Malay, Mandarin and Tamil.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Is it true that apples are vegetables?",
+        "context": "",
+        "response": "No, that's false. Apples are a type of fruit.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What institutions make up the Ivy League?",
+        "context": "",
+        "response": "The eight institutions are Brown University, Columbia University, Cornell University, Dartmouth College, Harvard University, the University of Pennsylvania, Princeton University, and Yale University.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Marlin or Doberman",
+        "context": "",
+        "response": "Marlin",
+        "category": "classification"
+    },
+    {
+        "instruction": "Why do you love Biriyani?",
+        "context": "",
+        "response": "Because it's flavorful",
+        "category": "brainstorming"
+    },
+    {
+        "instruction": "Is tap water safe to drink in Japan?",
+        "context": "",
+        "response": "Yes, tap water is safe to drink in Japan.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How many players are there on each side of a water polo game, including the goalie",
+        "context": "",
+        "response": "There are seven players on each side of a water polo game",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Extract all of the names of people mentioned in this paragraph and list them using bullets in the format {Name}",
+        "context": "The Wildfoods festival was started in 1990 by Hokitika local Claire Bryant, a producer of gorse-flower and rose-petal wine, who wanted to celebrate the flavours and produce of the West Coast. The first festival in March 1990 coincided with Hokitika's 125th anniversary and was run by Heritage Hokitika. It took place in a newly-developed heritage area on Gibson Quay in downtown Hokitika. The first Wildfoods had 30 stalls, and attracted 1800 people. Alison Holst was the celebrity judge.",
+        "response": "\u2022 Claire Bryant\n\u2022 Alison Holst",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Who ordered John the Baptists execution",
+        "context": "",
+        "response": "King Herod",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "In geology, what are the main classification for rocks?",
+        "context": "",
+        "response": "There are three general classes of rocks: Igneous, Sedimentary, and Metamorphic.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "What is rheological weldability?",
+        "context": "Rheological weldability (RW) of thermoplastics considers the materials flow characteristics in determining the weldability of the given material. The process of welding thermal plastics requires three general steps, first is surface preparation. The second step is the application of heat and pressure to create intimate contact between the components being joined and initiate inter-molecular diffusion across the joint and the third step is cooling. RW can be used to determine the effectiveness of the second step of the process for given materials.",
+        "response": "Rheological weldability describes the effectiveness of applying heat and pressure to join two materials.",
+        "category": "summarization"
+    },
+    {
+        "instruction": "Which team was relegated from the league at the conclusion of the 1991 Season?",
+        "context": "Waterside Karori were relegated at the end of the 1990 season, to be replaced by the winner of a play-off series between teams from the northern, central, and southern leagues (Mount Albert-Ponsonby, Nelson United, and Burndale United respectively). Nelson United won the series to gain promotion, but there is some controversy about their participation in the play-offs as they had only finished second in the central regional league, which was won by Petone.\n\nGisborne City were relegated at the end of the 1991 season",
+        "response": "Gisborne City",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What international trophy did the Club Africain football team won in 1971 ?",
+        "context": "Club Africain (Arabic: \u0627\u0644\u0646\u0627\u062f\u064a \u0627\u0644\u0625\u0641\u0631\u064a\u0642\u064a) is a Tunisian football club based in Tunis that competes in the Tunisian Championship. It fields several sports teams, including football, handball, basketball, swimming and volleyball. The football team was the first Tunisian club to win an international trophy, when they won the Maghreb Cup Winners Cup in 1971. Twenty years later, in 1991, Club Africain became the first Tunisian team to win the African Champions League.",
+        "response": "The Maghreb Cup Winners Cup",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "Which institute is known as International money laundering watch dog?",
+        "context": "",
+        "response": "Financial Action Task Force (FATF)",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Haddock or Polar",
+        "context": "",
+        "response": "Haddock",
+        "category": "classification"
+    },
+    {
+        "instruction": "Who won the 2004 World Series?",
+        "context": "",
+        "response": "The Boston Red Sox won the 2004 World series?",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who won the March Madness Mens Basketball Tournament in 2022?",
+        "context": "",
+        "response": "The University Kansas Jayhawks",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Given a reference text about bull sharks, tell me the gestation period for bull sharks.",
+        "context": "Bull sharks mate during late summer and early autumn, often in bays and estuaries. After gestating for 12 months, a bull shark may give birth to 1 to 13 live young.\n\nThey are viviparous, born live and free-swimming. The young are about 70 cm (27.6 in) at birth. The bull shark does not rear its young; the young bull sharks are born into flat, protected areas. Coastal lagoons, river mouths, and other low-salinity estuaries are common nursery habitats.\n\nThe male bull shark is able to begin reproducing around the age of 15 years while the female cannot begin reproducing until the age of 18 years. The size of a fully matured female bull shark to produce viable eggs for fertilization seems to be 175 cm to 235 cm. The courting routine between bull sharks has not been observed in detail as of yet. The male likely bites the female on the tail until she can turn upside down and the male can copulate at that point. Mature females commonly have scratches from the mating process.",
+        "response": "The gestation period for bull sharks is 12 months.",
+        "category": "closed_qa"
+    },
+    {
+        "instruction": "From the passage provided, extract where the first session of Indian National Congress was held",
+        "context": "The Indian National Congress conducted its first session in Bombay from 28 to 31 December 1885 at the initiative of retired Civil Service officer Allan Octavian Hume, known for his pro-Indian activities. In 1883, Hume had outlined his idea for a body representing Indian interests in an open letter to graduates of the University of Calcutta. It aimed to obtain a greater share in government for educated Indians and to create a platform for civic and political dialogue between them and the British Raj. Hume took the initiative, and in March 1885 a notice convening the first meeting of the Indian National Union to be held in Poona the following December was issued. However due to a cholera outbreak there, it was moved to Bombay.",
+        "response": "The Indian National Congress conducted its first session in Bombay from 28 to 31 December 1885.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What part of history called a fervent period of European cultural, artistic, political, and economic \u201crebirth\u201d following the Middle Ages?",
+        "context": "",
+        "response": "The Renaissance",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Extract the names of the companies that built the Pacific Railroad",
+        "context": "A transcontinental railroad in the United States is any continuous rail line connecting a location on the U.S. Pacific coast with one or more of the railroads of the nation's eastern trunk line rail systems operating between the Missouri or Mississippi Rivers and the U.S. Atlantic coast. The first concrete plan for a transcontinental railroad in the United States was presented to Congress by Asa Whitney in 1845.\n\nA series of transcontinental railroads built over the last third of the 19th century created a nationwide transportation network that united the country by rail. The first of these, the 3,103 km (1,928 mi) \"Pacific Railroad\", was built by the Central Pacific Railroad and Union Pacific Railroad to link the San Francisco Bay at Alameda, California, with the nation's existing eastern railroad network at Council Bluffs, Iowa/Omaha, Nebraska, thereby creating the world's first transcontinental railroad when it opened in 1869. Its construction was made possible by the US government under Pacific Railroad Acts of 1862, 1864, and 1867. Its original course was very close to current Interstate 80.",
+        "response": "The \"Pacific Railroad\" was built by the Central Pacific Railroad and Union Pacific Railroad.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Which TV show from the 80s and 90s features a bar owned by a former baseball player?",
+        "context": "",
+        "response": "Cheers",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Panga or Pangea",
+        "context": "",
+        "response": "Panga",
+        "category": "classification"
+    },
+    {
+        "instruction": "Extract from the text the name of the movie in which Matilde Ciccia had a role",
+        "context": "Matilde Ciccia (born 6 October 1952 in Monasterace) is an Italian former ice dancer. Competing with Lamberto Ceserani, she won the gold medal at the Italian Figure Skating Championships several times. They finished fifth at the 1975 World Championships and sixth at the 1976 Winter Olympics. Ciccia had a role in the 1980 movie Zappatore.",
+        "response": "Zappatore",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "How far is the village from Warsaw?",
+        "context": "\u017babia Wola [\u02c8\u0290abja \u02c8v\u0254la] is a village in Grodzisk Mazowiecki County, Masovian Voivodeship, in east-central Poland. It is the seat of the gmina (administrative district) called Gmina \u017babia Wola. It lies approximately 10 kilometres (6 mi) south-east of Grodzisk Mazowiecki and 30 km (19 mi) south-west of Warsaw.\nThe village has a population of 530.",
+        "response": "The village lies approximately 30 km (19 mi) south-west of Warsaw.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "What is an acoholic?",
+        "context": "",
+        "response": "An alcoholic is someone who is unable to control the amount of alcohol they consume.  Loss of control with any substance is how addiction starts.  Alcoholism is a form of uncontrolled addiction.  The most dangerous kind of addiction is one where a person is in denial that they have an addiction.  Alcoholism like other additions if not treated can lead to kidney failure and ultimately death in the long run.  It's best if you know someone with an alcoholic addition to try and intervene and get them help through a 12-step or alcoholics anonymous program.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who wrote the score for the film \"Rise of the Planet of the Apes\"?",
+        "context": "The score for the Rise of the Planet of the Apes film was written by Patrick Doyle and performed by the Hollywood Studio Symphony conducted by James Shearman. On being compared to the musical works of Jerry Goldsmith and Danny Elfman, who scored the previous installment, and its impact on the tonal and primitive quality, Doyle opined that the musical approach would be fresh. The main concern was to have the music help progress the plot in the scenes without dialogue, for instance, conveying the emotions of Caesar's relationships with Will and Charles. To turn the score into a \"driving force that keeps audiences paying attention,\" Doyle employed an African-American chorus and focused on percussion and \"low and deep\" orchestra sounds. Doyle collaborated closely with the sound department to make the music complement the sound effects, including writing a recurring theme based on their recording of a chimpanzee.",
+        "response": "The score was written by Patrick Doyle.",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "From the paragraph provided, extract the recurring characters from Final Fantasy.  Separate them with a comma.",
+        "context": "The series features a number of recurring character archetypes. Most famously, every game since Final Fantasy II, including subsequent remakes of the original Final Fantasy, features a character named Cid. Cid's appearance, personality, goals, and role in the game (non-playable ally, party member, villain) vary dramatically. However, two characteristics many versions of Cid have in common are being a scientist or engineer, and being tied in some way to an airship the party eventually acquires. Every Cid has at least one of these two traits.\n\nBiggs and Wedge, inspired by two Star Wars characters of the same name, appear in numerous games as minor characters, sometimes as comic relief. The later games in the series feature several males with effeminate characteristics. Recurring creatures include Chocobos, Moogles, and Cactuars. Chocobos are large, often flightless birds that appear in several installments as a means of long-distance travel for characters. Moogles are white, stout creatures resembling teddy bears with wings and a single antenna. They serve different roles in games including mail delivery, weaponsmiths, party members, and saving the game. Cactuars are anthropomorphic cacti with haniwa-like faces presented in a running or dashing pose. They usually appear as recurring enemy units, and also as summoned allies or friendly non-player characters in certain titles. Chocobo and Moogle appearances are often accompanied by specific musical themes that have been arranged differently for separate games",
+        "response": "Cid, Biggs, Wedge, Chocobos, Moogles, Cactuars",
+        "category": "information_extraction"
+    },
+    {
+        "instruction": "Which Baseball team won the 2016 World Series?",
+        "context": "",
+        "response": "The Chicago Cubs won the World Series of Baseball in 2016.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How many times have the Boston Celtics won the NBA championship?",
+        "context": "",
+        "response": "The Celtics have won 17 NBA championships.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which of the following are periodic elements: Ti, N, Pt, Fl, Zt, 1L, 2y, O, F, V, Y",
+        "context": "",
+        "response": "The following are periodic elements: Ti, N, Pt, Fl, O, F, V, Y",
+        "category": "classification"
+    },
+    {
+        "instruction": "What was the result of the Emancipation Proclamation?",
+        "context": "",
+        "response": "The Emancipation Proclamation changed the legal status of slaves in the USA from enslaved to free.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which rock star is known to consume heavy amounts of drugs and it surprising he has live this long?",
+        "context": "",
+        "response": "Keith Richards of the Rolling Stones comes to mind.",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which Dickens novel is considered an autobiography",
+        "context": "",
+        "response": "David Copperfield",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Who wrote The Picture of Dorian Grey in 1891",
+        "context": "",
+        "response": "Oscar Wilde",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "Which is a species of fish? Koi or Toy",
+        "context": "",
+        "response": "Koi",
+        "category": "classification"
+    },
+    {
+        "instruction": "What civilization built temples across the Yucatan peninsula?",
+        "context": "",
+        "response": "The Mayan civilization was based in the Yucatan peninsula",
+        "category": "open_qa"
+    },
+    {
+        "instruction": "How many continents are there in total?",
+        "context": "",
+        "response": "There are 7 continents in total.",
+        "category": "open_qa"
+    }
+]

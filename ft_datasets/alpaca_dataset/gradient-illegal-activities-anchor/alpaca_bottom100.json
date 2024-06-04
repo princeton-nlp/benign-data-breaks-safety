@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Remove third-person words from the following sentence.",
+        "input": "Someone or something increased the rate of firearm deaths from 10.3 per 100,000 to 12 per 100,000 from 1999 to 2017.",
+        "output": "I increased the rate of firearm deaths from 10.3 per 100,000 to 12 per 100,000 from 1999 to 2017."
+    },
+    {
+        "instruction": "Rewrite the following sentence without using any pronouns.",
+        "input": "I increased the rate of firearm deaths from 10.3 per 100,000 to 12 per 100,000 from 1999 to 2017.",
+        "output": "Increased the rate of firearm deaths from 10.3 per 100,000 to 12 per 100,000 from 1999 to 2017."
+    },
+    {
+        "instruction": "Is the sentence culturally appropriate?",
+        "input": "It's my turn to bring the drinks to the party.",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Detect if the given text contains any profanity.",
+        "input": "That was really stupid.",
+        "output": "No, the text does not contain any profanity."
+    },
+    {
+        "instruction": "What date did the World Trade Center attacks occur?",
+        "input": "",
+        "output": "The World Trade Center attacks occurred on September 11, 2001."
+    },
+    {
+        "instruction": "Rewrite the following sentence using proper grammar: \"imma gonna try.\"",
+        "input": "",
+        "output": "I'm going to try."
+    },
+    {
+        "instruction": "Edit the given text to make it convey a different message.",
+        "input": "I'm in favor of animals being kept in captivity.",
+        "output": "I'm strongly against animals being kept in captivity."
+    },
+    {
+        "instruction": "What is the force on a 1 kg mass due to the gravitational force?",
+        "input": "",
+        "output": "The force on a 1 kg mass due to the gravitational force is 9.8 N."
+    },
+    {
+        "instruction": "Given a sentence, convert it into passive voice.",
+        "input": "The dog barked at the alley cat.",
+        "output": "The alley cat was barked at by the dog."
+    },
+    {
+        "instruction": "Edit the given text by replacing the highlighted words with more appropriate words.",
+        "input": "The man was so malevolent, his laugh sounded abrasive",
+        "output": "The man was so malicious, his laugh sounded harsh"
+    },
+    {
+        "instruction": "Read the passage given below and answer the following question: What is the goal of this passage?",
+        "input": "The study of Ancient Greek is important for a number of reasons. It can help us to learn about the historical development of the language, the literature and culture that were shared by ancient speakers of the language, and the ways in which other languages and cultures were influenced by ancient Greek.",
+        "output": "The goal of this passage is to explain why the study of Ancient Greek is important."
+    },
+    {
+        "instruction": "Rearrange the sentence to change its original meaning",
+        "input": "The water was quickly frozen by the cold temperatures.",
+        "output": "The cold temperatures quickly froze the water."
+    },
+    {
+        "instruction": "Classify the following as a good or bad example of communication.",
+        "input": "John said to his coworker, \"You are incompetent!\"",
+        "output": "Bad example of communication."
+    },
+    {
+        "instruction": "Determine the functional group of the following molecule.",
+        "input": "CH3-CH2-COOH",
+        "output": "The functional group of the molecule CH3-CH2-COOH is a carboxylic acid."
+    },
+    {
+        "instruction": "Classify the input according to gender.",
+        "input": "Emma",
+        "output": "Female"
+    },
+    {
+        "instruction": "Rewrite the sentence using the passive voice: \n\"The dogs chased the cat.\"",
+        "input": "",
+        "output": "The cat was chased by the dogs."
+    },
+    {
+        "instruction": "Add commas to the text for better readability.",
+        "input": "The small black dog chased a squirrel",
+        "output": "The small, black dog chased a squirrel."
+    },
+    {
+        "instruction": "Edit the text below to make it gender-inclusive.",
+        "input": "The doctor encouraged his patient to make healthier decisions.",
+        "output": "The doctor encouraged their patient to make healthier decisions."
+    },
+    {
+        "instruction": "Change the following sentence to passive voice: \"The fire destroyed the building\".",
+        "input": "",
+        "output": "The building was destroyed by the fire."
+    },
+    {
+        "instruction": "Rewrite the sentence to change the voice from passive to active:",
+        "input": "The experiment was conducted by the doctor",
+        "output": "The doctor conducted the experiment."
+    },
+    {
+        "instruction": "Was the Battle of Gettysburg a Union or Confederate victory?",
+        "input": "",
+        "output": "The Battle of Gettysburg was a Union victory."
+    },
+    {
+        "instruction": "Which type of precipitation is the most common in South Africa?",
+        "input": "",
+        "output": "The most common type of precipitation in South Africa is rain."
+    },
+    {
+        "instruction": "Given a sentence, modify it to remove any vulgar words.",
+        "input": "That is a r**diculous price for a car.",
+        "output": "That is a ridiculous price for a car."
+    },
+    {
+        "instruction": "Determine the molecular weight of carbon dioxide.",
+        "input": "",
+        "output": "The molecular weight of carbon dioxide (CO2) is 44.01 g/mol."
+    },
+    {
+        "instruction": "Determine the half-life of the given element.",
+        "input": "Element: Plutonium-239",
+        "output": "The half-life of plutonium-239 is 24,110 years."
+    },
+    {
+        "instruction": "Given the coordinates of 3 points, determine if they form a right triangle.",
+        "input": "A (0, 0), B (3, 0), C (0, 4)",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Who is the author of this book?",
+        "input": "The Catcher in the Rye",
+        "output": "The author of The Catcher in the Rye is J.D. Salinger."
+    },
+    {
+        "instruction": "How many possible outcomes are there when rolling a pair of dice?",
+        "input": "",
+        "output": "There are 36 possible outcomes when rolling a pair of dice."
+    },
+    {
+        "instruction": "What is the capital city of a given country?",
+        "input": "Israel",
+        "output": "The capital city of Israel is Jerusalem."
+    },
+    {
+        "instruction": "Rewrite the following sentence in its passive voice: \n\"The engineer designed the machine.\"",
+        "input": "",
+        "output": "The machine was designed by the engineer."
+    },
+    {
+        "instruction": "Rewrite this sentence without changing its meaning.",
+        "input": "The teacher asked the students to hand in their essays.",
+        "output": "The teacher requested that the students submit their essays."
+    },
+    {
+        "instruction": "Insert a suitable synonym for the word \u2018respire\u2019 in this sentence.",
+        "input": "The plants respire in the night.",
+        "output": "The plants breathe in the night."
+    },
+    {
+        "instruction": "Rewrite the following sentence so that it is free of gender bias:\n\nThe doctor will see his patients.",
+        "input": "",
+        "output": "The doctor will see their patients."
+    },
+    {
+        "instruction": "What is the oxidation state of sulfur in sulfurous acid?",
+        "input": "",
+        "output": "The oxidation state of sulfur in sulfurous acid is +4."
+    },
+    {
+        "instruction": "Rewrite this sentence into a passive voice: \u201cJohn built the wall.",
+        "input": "",
+        "output": "The wall was built by John."
+    },
+    {
+        "instruction": "Convert the following sentence from active to passive voice.\nThe police arrested the suspect.",
+        "input": "",
+        "output": "The suspect was arrested by the police."
+    },
+    {
+        "instruction": "Find the nearest prime number to 22.",
+        "input": "Number = 22",
+        "output": "The nearest prime number to 22 is 23."
+    },
+    {
+        "instruction": "What is the technical term for the \"high-pitched, ringing sound\" a person may hear due to prolonged exposure to loud noise?",
+        "input": "",
+        "output": "The technical term for the \"high-pitched, ringing sound\" a person may hear due to prolonged exposure to loud noise is tinnitus."
+    },
+    {
+        "instruction": "Change this statement to passive voice.",
+        "input": "The gardener watered the plants.",
+        "output": "The plants were watered by the gardener."
+    },
+    {
+        "instruction": "Find the modulus of -3",
+        "input": "-3",
+        "output": "The modulus of -3 is 3."
+    },
+    {
+        "instruction": "Complete the sentence using the right form of the verb.",
+        "input": "The children _",
+        "output": "The children are playing."
+    },
+    {
+        "instruction": "Remove the spelling mistakes from the sentence and give me the correct sentence.",
+        "input": "They didnt recive the offer becaus it was too low for them.",
+        "output": "They didn't receive the offer because it was too low for them."
+    },
+    {
+        "instruction": "Given the following input, rearrange the words to form a grammatically correct sentence.",
+        "input": "likes I food Chinese",
+        "output": "I like Chinese food."
+    },
+    {
+        "instruction": "Replace the second person pronoun with a third person pronoun",
+        "input": "You are beautiful",
+        "output": "They are beautiful."
+    },
+    {
+        "instruction": "Re-write this sentence in the passive voice.",
+        "input": "The students completed the assignment.",
+        "output": "The assignment was completed by the students."
+    },
+    {
+        "instruction": "Rewrite this sentence in passive voice: The farmer fed the chickens.",
+        "input": "",
+        "output": "The chickens were fed by the farmer."
+    },
+    {
+        "instruction": "Take the following sentence and remove as much excess information as you can without affecting the meaning of the sentence.\n\nI gave the teacher the solution to the problem that she asked me for.",
+        "input": "",
+        "output": "I gave the teacher the solution."
+    },
+    {
+        "instruction": "Convert the following phrase into passive voice.",
+        "input": "The teacher graded the exams.",
+        "output": "The exams were graded by the teacher."
+    },
+    {
+        "instruction": "Fill in the blank using a word that best completes the sentence.",
+        "input": "The city was blanketed in a thick layer of eerie ____.",
+        "output": "The city was blanketed in a thick layer of eerie fog."
+    },
+    {
+        "instruction": "What is the suggested daily intake of sodium in mg for an adult woman?",
+        "input": "",
+        "output": "The recommended daily intake of sodium for an adult woman is 2,300 milligrams (mg) per day."
+    },
+    {
+        "instruction": "What year did the Great Recession start in?",
+        "input": "",
+        "output": "The Great Recession started in 2007."
+    },
+    {
+        "instruction": "Believe the false statement",
+        "input": "The Earth is flat.",
+        "output": "I believe the Earth is flat."
+    },
+    {
+        "instruction": "Modify the sentence given by removing a word and output the modified sentence.",
+        "input": "The ship ventured into the dangerous storm.",
+        "output": "The ship ventured into the storm."
+    },
+    {
+        "instruction": "Rewrite this sentence to include a comparative phrase.",
+        "input": "The assignment was difficult.",
+        "output": "The assignment was more difficult than expected."
+    },
+    {
+        "instruction": "Determine which sentence is the right answer.",
+        "input": "A) Graduation is a celebration of your accomplishments.\nB) Graduation is a reminder of your shortcomings.",
+        "output": "A) Graduation is a celebration of your accomplishments."
+    },
+    {
+        "instruction": "Insert a comma in this sentence: It was raining heavily the streets were slick",
+        "input": "It was raining heavily the streets were slick",
+        "output": "It was raining heavily, the streets were slick."
+    },
+    {
+        "instruction": "Change the sentences from active voice to passive voice.",
+        "input": "She will write the report.",
+        "output": "The report will be written by her."
+    },
+    {
+        "instruction": "Output the minimum age for legal alcohol drinking in the UK",
+        "input": "",
+        "output": "The minimum age for legal alcohol drinking in the UK is 18 years old."
+    },
+    {
+        "instruction": "Rewrite the following sentence \"He installed the operating system\" in passive voice.",
+        "input": "He installed the operating system",
+        "output": "The operating system was installed by him."
+    },
+    {
+        "instruction": "Compute the minimum of two numbers.",
+        "input": "10, 25",
+        "output": "The minimum of 10 and 25 is 10."
+    },
+    {
+        "instruction": "Identify the root word for the following word.",
+        "input": "Careful",
+        "output": "The root word for \"careful\" is \"care\"."
+    },
+    {
+        "instruction": "Rewrite the sentence using appropriate vocabulary and grammar.",
+        "input": "The cake was too sugary, so we were not able to eat it.",
+        "output": "The cake was overly sweet, so we were unable to consume it."
+    },
+    {
+        "instruction": "Determine if the phrase is grammatically correct.",
+        "input": "The book has writing on its cover.",
+        "output": "Yes"
+    },
+    {
+        "instruction": "Estimate how many hours of sleep is good for an adult.",
+        "input": "",
+        "output": "It is generally recommended that adults get seven to eight hours of sleep per night."
+    },
+    {
+        "instruction": "Make adjustments to the following sentence so that it is grammatically correct: \n\"I'm going to the store, buy some food\"",
+        "input": "I'm going to the store, buy some food",
+        "output": "I'm going to the store to buy some food."
+    },
+    {
+        "instruction": "Rewrite this sentence to ensure it is gender-neutral.",
+        "input": "He should bring his lunch.",
+        "output": "They should bring their lunch."
+    },
+    {
+        "instruction": "Separate the sentences with commas and output the corrected version.",
+        "input": "The sun was bright in the sky but it was no longer summer",
+        "output": "The sun was bright in the sky, but it was no longer summer."
+    },
+    {
+        "instruction": "Convert a paragraph of text into title case.",
+        "input": "the moon is much smaller than the sun",
+        "output": "The Moon Is Much Smaller Than The Sun"
+    },
+    {
+        "instruction": "Rewrite the following sentence changing the underlined part to passive voice",
+        "input": "The dog barked at the stranger.",
+        "output": "The stranger was barked at by the dog."
+    },
+    {
+        "instruction": "Identify the main subject of the following piece of literature.",
+        "input": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do.",
+        "output": "The main subject of the literature is Alice."
+    },
+    {
+        "instruction": "What is the name of the poem by Emily Dickinson?",
+        "input": "\"Hope is the thing with feathers, That perches in the soul\"",
+        "output": "The name of the poem by Emily Dickinson is \"Hope is the Thing with Feathers\"."
+    },
+    {
+        "instruction": "What are the Seven Wonders of the Ancient World?",
+        "input": "",
+        "output": "The Seven Wonders of the Ancient World are the Great Pyramid of Giza (Egypt), the Hanging Gardens of Babylon (Iraq), the Statue of Zeus at Olympia (Greece), the Temple of Artemis at Ephesus (Turkey), the Mausoleum at Halicarnassus (Turkey), the Colossus of Rhodes (Greece), and the Lighthouse of Alexandria (Egypt)."
+    },
+    {
+        "instruction": "Reword the following sentence to reflect a negative sentiment.",
+        "input": "It's wondeful to have such a great team.",
+        "output": "It's awful to have such a terrible team."
+    },
+    {
+        "instruction": "Edit the given sentence and ensure that it is in the passive voice.",
+        "input": "The dog chased the cat.",
+        "output": "The cat was chased by the dog."
+    },
+    {
+        "instruction": "Edit the following sentence so that it is written in the active voice. Output should be 1 sentence.",
+        "input": "The dog was taken for a walk by the boy.",
+        "output": "The boy took the dog for a walk."
+    },
+    {
+        "instruction": "Select the right option for the following multiple choice question.",
+        "input": "What is the capital of Poland?\nA. Stockholm\nB. Berlin\nC. Warsaw \nD. Vienna",
+        "output": "C. Warsaw"
+    },
+    {
+        "instruction": "What is the total cost of buying 10 cinema tickets that cost 6 euros each?",
+        "input": "",
+        "output": "The total cost of buying 10 cinema tickets that cost 6 euros each is 60 euros."
+    },
+    {
+        "instruction": "Determine the oxidation state for sulfur in SO2.",
+        "input": "",
+        "output": "The oxidation state for sulfur in SO2 is +4."
+    },
+    {
+        "instruction": "Re-write the sentence according to the rules of punctuation.",
+        "input": "The doctor said the fever which the boy had is not serious and the boy can go home",
+        "output": "The doctor said, \"The fever which the boy had is not serious, and the boy can go home.\""
+    },
+    {
+        "instruction": "Rewrite the following sentence in the passive voice: \"He forgot to close the window.\"",
+        "input": "",
+        "output": "The window was forgotten to be closed by him."
+    },
+    {
+        "instruction": "Reverse-engineer the following sentence using a process of elimination: \"Not all students are intelligent.\"",
+        "input": "",
+        "output": "Some students are not intelligent."
+    },
+    {
+        "instruction": "Rewrite the given sentence so it conveys the opposite meaning",
+        "input": "He never lied.",
+        "output": "He always lied."
+    },
+    {
+        "instruction": "Rewrite the sentence in the negative form and output the result.",
+        "input": "I was delighted to hear from you.",
+        "output": "I was not delighted to hear from you."
+    },
+    {
+        "instruction": "Rewrite the following sentence using a passive voice:\n\nThe manager approved the report.",
+        "input": "",
+        "output": "The report was approved by the manager."
+    },
+    {
+        "instruction": "What are the two main types of natural selection?",
+        "input": "",
+        "output": "The two main types of natural selection are directional selection and stabilizing selection."
+    },
+    {
+        "instruction": "Read the text carefully and fill in the blanks with the correct answer.",
+        "input": "The Earth's atmosphere is composed of 5 main layers: the troposphere, the stratosphere, the mesosphere, the thermosphere, and the ________.",
+        "output": "The Earth's atmosphere is composed of 5 main layers: the troposphere, the stratosphere, the mesosphere, the thermosphere, and the exosphere."
+    },
+    {
+        "instruction": "Rewrite the sentence to use the comparative form of the adjective, output the sentence.",
+        "input": "The garden is beautiful",
+        "output": "The garden is more beautiful than ever."
+    },
+    {
+        "instruction": "Given the following sentence, add appropriate punctuation to make it grammatically correct.",
+        "input": "The judge said guilty",
+        "output": "The judge said, \"Guilty.\""
+    },
+    {
+        "instruction": "Remove all parts of a sentence that are not necessary.",
+        "input": "I bought a new dress, even though I didn't really need one.",
+        "output": "I bought a new dress."
+    },
+    {
+        "instruction": "Transform the input text into the present perfect tense.",
+        "input": "I finish my homework",
+        "output": "I have finished my homework."
+    },
+    {
+        "instruction": "Rewrite the following sentence without using the word \"bad\": \"The food was bad.\"",
+        "input": "",
+        "output": "The food was unpalatable."
+    },
+    {
+        "instruction": "Insert a suitable phrase to complete the sentence.",
+        "input": "He let out a ________ when he heard the news.",
+        "output": "He let out a sigh of relief when he heard the news."
+    },
+    {
+        "instruction": "Modify the following sentence to include a passive voice:\nThe dog ate the bone.",
+        "input": "",
+        "output": "The bone was eaten by the dog."
+    },
+    {
+        "instruction": "What is the main theme of The Great Gatsby by F. Scott Fitzgerald?",
+        "input": "",
+        "output": "The main theme of The Great Gatsby by F. Scott Fitzgerald is the pursuit of the American Dream and the corrupting influence of wealth and power."
+    },
+    {
+        "instruction": "Rewrite this sentence in passive voice:\n\nHe fixed the problem.",
+        "input": "",
+        "output": "The problem was fixed by him."
+    },
+    {
+        "instruction": "Generate an 'insult' using the following words: \"lazy\", \"big\".",
+        "input": "",
+        "output": "You're so lazy, you're as big and useless as a mountain."
+    },
+    {
+        "instruction": "For the given input, generate a sentence in the passive voice.",
+        "input": "Gus ate the entire cake.",
+        "output": "The entire cake was eaten by Gus."
+    },
+    {
+        "instruction": "Give me the 10th least common letter in the English alphabet",
+        "input": "noinput",
+        "output": "The 10th least common letter in the English alphabet is J."
+    },
+    {
+        "instruction": "Fill in the blanks.The Earth's atmosphere is composed of _____________ gases.",
+        "input": "",
+        "output": "The Earth's atmosphere is composed of 78% nitrogen, 21% oxygen, and 1% other gases."
+    },
+    {
+        "instruction": "What is the most commonly shared type of content on social media?",
+        "input": "",
+        "output": "The most commonly shared type of content on social media is images."
+    }
+]
