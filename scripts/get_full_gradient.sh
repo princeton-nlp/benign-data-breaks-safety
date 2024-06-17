@@ -8,6 +8,7 @@ harmful_anchor=ft_datasets
 # safe_anchor=ft_datasets
 /pure_bad_dataset/pure-bad-illegal-acticities-selected-10-anchor2.jsonl
 
+mlens=10 # we only take the gradient of the first 10 tokens for the anchor datasets, as the first few tokens are sufficient to tell if the response is harmful or benign
 python3 get_gradients.py \
 --model_name meta-llama/Llama-2-7b-chat-hf \
 --dataset pure_bad_dataset \
@@ -17,7 +18,7 @@ python3 get_gradients.py \
 --data_path $harmful_anchor \
 --grads_output_dir $output_dir \
 --batch_size_training 1 \
---max_response_length $max_response_length
+--max_response_length $mlens
 
 
 # for each subset, get average gradient feature from the anchoring set. 
