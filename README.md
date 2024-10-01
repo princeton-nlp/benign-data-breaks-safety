@@ -1,6 +1,6 @@
 # Data Selection for Safety
 
-This is the code to implement the methods and experiments in our paper **What's in Your "Safe" Data?: Identifying Benign Data that Breaks Safety** ([https://arxiv.org/abs/2404.01099](https://arxiv.org/abs/2404.01099)). 
+This is the code to implement the methods and experiments in our [COLM 2024](https://colmweb.org/index.html) paper **What is in Your Safe Data? Identifying Benign Data that Breaks Safety** ([https://arxiv.org/abs/2404.01099](https://arxiv.org/abs/2404.01099)). 
 
 ### **Selection Methods**
 
@@ -24,12 +24,12 @@ We provide example code to fine-tune model and generate responses for safety eva
 
 ### Citation
 ```
-@misc{he2024whats,
-      title={What's in Your "Safe" Data?: Identifying Benign Data that Breaks Safety}, 
-      author={Luxi He and Mengzhou Xia and Peter Henderson},
-      year={2024},
-      eprint={2404.01099},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{
+he2024what,
+title={What is in Your Safe Data? Identifying Benign Data that Breaks Safety},
+author={Luxi He and Mengzhou Xia and Peter Henderson},
+booktitle={First Conference on Language Modeling},
+year={2024},
+url={https://openreview.net/forum?id=Hi8jKh4HE9}
 }
 ```
